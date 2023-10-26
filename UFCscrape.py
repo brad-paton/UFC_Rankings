@@ -18,7 +18,7 @@ import pandas as pd
 from tqdm import tqdm
 
 # import library
-import scrape_ufc_stats_library as LIB
+import scrape_library as LIB
 
 # import config
 import yaml
