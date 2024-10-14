@@ -2,7 +2,8 @@ name: Update DataFrame Weekly
 
 on:
   schedule:
-    • cron: '0 0 * * 4'  
+    cron: '0 0 * * 4'  
+    workflow_dispatch:
 
 jobs:
   update_dataframe:
