@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 
 jobs:
-  update_dataframe:
+  run_script:
     runs-on: ubuntu-latest
 
     steps:
