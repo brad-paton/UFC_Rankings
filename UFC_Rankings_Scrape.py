@@ -129,9 +129,9 @@ df['Date'] = datetime.now().strftime('%Y-%m-%d')
 #Sort Columns
 df = df[['Date', 'Division', 'Fighter', 'Ranking', 'Notes']]
 
-existing_csv_url = 'https://raw.githubusercontent.com/brad-paton/UFC_Rankings/refs/heads/main/UFC_Rankings.csv'
+existing_csv_path = 'UFC_Rankings.csv'
 
-existing_csv = pd.read_csv(existing_csv_url)
+existing_csv = pd.read_csv(existing_csv_path)
 
 combined = pd.concat([existing_csv, df], ignore_index=False)
 
