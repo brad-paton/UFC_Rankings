@@ -37,4 +37,4 @@ jobs:
           git commit -m "Update UFC Rankings CSV"
           git push
 env:
-          GITHUB_TOKEN: ${{ secrets.UFC_Rankings_Secret }}
+          UFC_RANKINGS_SECRET: ${{ secrets.UFC_Rankings_Secret }}
