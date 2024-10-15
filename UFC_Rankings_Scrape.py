@@ -142,5 +142,5 @@ combined['Division'] = pd.Categorical(combined['Division'], categories=divisions
 combined['Ranking'] = combined['Ranking'].astype(int)
 
 combined = combined.sort_values(by=['Date', 'Division', 'Ranking'], ascending=[False, True, True])
-combined.to_csv('UFC_Rankings.csv', index=False)
-'UFC_Rankings.csv' = combined.to_csv('UFC_Rankings.csv', index=False)
+combined.to_csv('UFCRankings.csv', index=False)
+'UFCRankings.csv' = combined.to_csv('UFC_Rankings.csv', index=False)
