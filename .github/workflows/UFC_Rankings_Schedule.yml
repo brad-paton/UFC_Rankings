@@ -26,7 +26,7 @@ jobs:
         run: |
           git config --global user.name 'brad-paton'
           git config --global user.email 'bpaton50000@gmail.com'
-          git add UFCRankings.csv
+          git add UFC_Rankings.csv
           git commit -m "Update UFC Rankings CSV"
           git push
 env:
