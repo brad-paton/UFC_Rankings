@@ -140,6 +140,7 @@ combined.loc[combined['Ranking'] == 0, 'Notes'] = 'Champion'
 
 combined['Division'] = pd.Categorical(combined['Division'], categories=divisions, ordered=True)
 combined['Ranking'] = combined['Ranking'].astype(int)
-combined = combined.sort_values(by=['Date', 'Division', 'Ranking'], ascending=[False, True, True])
 
+combined = combined.sort_values(by=['Date', 'Division', 'Ranking'], ascending=[False, True, True])
 combined.to_csv('UFC_Rankings.csv', index=False)
+'UFC_Rankings.csv' = combined.to_csv('UFC_Rankings.csv', index=False)
