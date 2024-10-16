@@ -27,7 +27,6 @@ jobs:
       - name: Commit and push changes
         run: |
           git config user.email "bpaton50000@gmail.com"
-          git config user.name "brad-paton"
           git add UFC_Rankings.csv
           git commit -m "Update UFC Rankings CSV"
           git push
