@@ -22,6 +22,8 @@ jobs:
             cache: 'pip'
       - name: Install Python dependencies
         uses: py-actions/py-dependency-install@v4
+      - name: Run Script
+        run: python UFC_Rankings_Scrape.py
       - name: Commit and push changes
         run: |
           git config --global user.name 'brad-paton'
