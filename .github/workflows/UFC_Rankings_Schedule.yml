@@ -30,6 +30,5 @@ jobs:
           git config --global user.name 'brad-paton'
           git add UFC_Rankings.csv
           git commit -m "Update UFC Rankings CSV"
-          git push
-env:
-          GITHUB_TOKEN: ${{ secrets.UFC_Rankings }}@github.com/brad-paton/UFC_Rankings.git HEAD:main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/brad-paton/UFC_Rankings.git HEAD:main
+#env:GITHUB_TOKEN: ${{ secrets.UFC_Rankings }}@github.com/brad-paton/UFC_Rankings.git HEAD:main
