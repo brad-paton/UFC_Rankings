@@ -32,4 +32,4 @@ jobs:
           git commit -m "Update UFC Rankings CSV"
           git push
 env:
-          GITHUB_TOKEN: ${{ secrets.UFC_Rankings }}@github.com/UFC_Rankings.git HEAD:main
+          GITHUB_TOKEN: ${{ secrets.UFC_Rankings }}@github.com/brad-paton/UFC_Rankings.git HEAD:main
