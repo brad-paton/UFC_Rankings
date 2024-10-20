@@ -1,30 +1,17 @@
-from datetime import datetime
-import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
+from datetime import datetime
 
+#Rankings URL
+URL = 'https://www.ufc.com/rankings'
 
-# Function to scrape the webpage
-def scrape_website(url):
-    # Send a GET request to the URL
-    response = requests.get(url)
+response = requests.get(URL)
 
-    # Check if the request was successful (status code 200)
-    if response.status_code == 200:
-           # Parse the HTML content using BeautifulSoup
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        # Extract all text from the webpage
-        text = soup.get_text(separator='\n', strip=True)
-
-        return text
-    else:
-        return f"Failed to retrieve the webpage. Status code: {response.status_code}"
-    
-url = 'https://www.ufc.com/rankings'
-
-# Call the function and print the result
-text = scrape_website(url)
+# Parse the HTML content using BeautifulSoup
+soup = BeautifulSoup(response.content, 'html.parser')
+# Extract all text from the webpage
+text = soup.get_text(separator='\n', strip=True)
 
 # Split the text into lines
 lines = text.splitlines()
@@ -129,8 +116,10 @@ df['Date'] = datetime.now().strftime('%Y-%m-%d')
 #Sort Columns
 df = df[['Date', 'Division', 'Fighter', 'Ranking', 'Notes']]
 
+#Read in existing csv from repository
 existing_csv = pd.read_csv('UFC_Rankings.csv')
 
+#Combine the existing csv with the new data
 combined = pd.concat([existing_csv, df], ignore_index=False)
 
 combined.loc[combined['Ranking'] == 'Champion', 'Ranking'] = 0
@@ -138,6 +127,10 @@ combined.loc[combined['Ranking'] == 0, 'Notes'] = 'Champion'
 
 combined['Division'] = pd.Categorical(combined['Division'], categories=divisions, ordered=True)
 combined['Ranking'] = combined['Ranking'].astype(int)
+
+#Sort values and convert back to a csv
+combined = combined.sort_values(by=['Date', 'Division', 'Ranking'], ascending=[False, True, True])
+combined.to_csv('UFC_Rankings.csv', index=False)
 
 combined = combined.sort_values(by=['Date', 'Division', 'Ranking'], ascending=[False, True, True])
 combined.to_csv('UFC_Rankings.csv', index=False)
