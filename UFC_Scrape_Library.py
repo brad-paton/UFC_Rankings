@@ -28,9 +28,9 @@ def scorecard_scrape(url):
         row_data = row_text.splitlines()  # Split the text into lines
         data.append(row_data)
 
-    # Create the DataFrame
     df = pd.DataFrame(data)
     df = df[[1, 2, 3]]
+    df = df[~df[1].str.contains("LEGEND")]
 
     event = df[2][1]
     fight = url.rsplit('/', 1)[-1].replace('-', ' ')
