@@ -186,10 +186,13 @@ df_women['Combined'] = df_women['Combined'].str.replace(r'^1\s+interim', 'Interi
 df_men_pivot = df_men.pivot(index='Div_Index', columns='Division', values='Combined')
 df_women_pivot = df_women.pivot(index='Div_Index', columns='Division', values='Combined')
 
+df_men_pivot = df_men_pivot.drop(columns=['Div_Index'])
+df_women_pivot = df_women_pivot.drop(columns=['Div_Index'])
+
 df_men_pivot = df_men_pivot[['Flyweight', 'Bantamweight', 'Featherweight', 'Lightweight', 'Welterweight', 'Middleweight', 'Light Heavyweight', 'Heavyweight']]
 df_women_pivot = df_women_pivot[["Women's Strawweight", "Women's Flyweight", "Women's Bantamweight"]]
 
-header = f"## UFC RANKINGS as of {max_date}\n\n"
+header = f"## UFC Rankings as of {max_date}\n\n"
 
 with open("README.md", "w") as f:
     f.write(header)
