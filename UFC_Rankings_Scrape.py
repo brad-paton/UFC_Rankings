@@ -1,7 +1,7 @@
-import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 from datetime import datetime
+import pandas as pd
+import requests
 
 #Rankings URL
 URL = 'https://www.ufc.com/rankings'
@@ -132,5 +132,69 @@ combined['Ranking'] = combined['Ranking'].astype(int)
 combined = combined.sort_values(by=['Date', 'Division', 'Ranking'], ascending=[False, True, True])
 combined.to_csv('UFC_Rankings.csv', index=False)
 
-combined = combined.sort_values(by=['Date', 'Division', 'Ranking'], ascending=[False, True, True])
-combined.to_csv('UFC_Rankings.csv', index=False)
+# Get the max date from the DataFrame
+max_date = df['Date'].max()
+df = df[df['Date'] == max_date].copy()
+
+# DataFrame with divisions containing "women's"
+df_women = df[df['Division'].str.lower().str.contains("women's")].copy()
+
+# DataFrame with divisions NOT containing "women's"
+df_men = df[~df['Division'].str.lower().str.contains("women's")].copy()
+
+# Clean notes
+df_men['Notes'] = df_men['Notes'].replace({
+    'None': '',
+    'Rank increased by': '▲',
+    'Rank decreased by': '▼'
+}, regex=True)
+
+df_women['Notes'] = df_women['Notes'].replace({
+    'None': '',
+    'Rank increased by': '▲',
+    'Rank decreased by': '▼'
+}, regex=True)
+
+# Create combined column
+df_men['Combined'] = df_men['Ranking'].astype(str) + ' - ' + df_men['Fighter'] + '\t' + df_men['Notes']
+df_women['Combined'] = df_women['Ranking'].astype(str) + ' - ' + df_women['Fighter'] + '\t' + df_women['Notes']
+
+# Remove the 'Date' and 'Notes' columns
+df_women = df_women.drop(columns=['Date', 'Notes', 'Fighter'])
+df_men = df_men.drop(columns=['Date', 'Notes', 'Fighter'])
+
+# Convert Ranking to numeric, errors='ignore' keeps 'Champion'/'Interim' as strings if already set
+df_men['Ranking'] = pd.to_numeric(df_men['Ranking'], errors='ignore')
+df_women['Ranking'] = pd.to_numeric(df_women['Ranking'], errors='ignore')
+
+# Sort by Division and Ranking
+df_men = df_men.sort_values(['Division', 'Ranking']).reset_index(drop=True)
+df_women = df_women.sort_values(['Division', 'Ranking']).reset_index(drop=True)
+
+# Add an index field that counts up for each division group
+df_men['Div_Index'] = df_men.groupby('Division').cumcount()
+df_women['Div_Index'] = df_women.groupby('Division').cumcount()
+
+# Replace only the leading '0  Champion' or '1  Interim' with 'Champion' or 'Interim'
+df_men['Combined'] = df_men['Combined'].str.replace(r'^0\s+Champion', 'Champion', regex=True)
+df_men['Combined'] = df_men['Combined'].str.replace(r'^1\s+interim', 'Interim', regex=True)
+
+df_women['Combined'] = df_women['Combined'].str.replace(r'^0\s+Champion', 'Champion', regex=True)
+df_women['Combined'] = df_women['Combined'].str.replace(r'^1\s+interim', 'Interim', regex=True)
+
+# Pivot using Div_Index as the index
+df_men_pivot = df_men.pivot(index='Div_Index', columns='Division', values='Combined')
+df_women_pivot = df_women.pivot(index='Div_Index', columns='Division', values='Combined')
+
+df_men_pivot = df_men_pivot[['Flyweight', 'Bantamweight', 'Featherweight', 'Lightweight', 'Welterweight', 'Middleweight', 'Light Heavyweight', 'Heavyweight']]
+df_women_pivot = df_women_pivot[["Women's Strawweight", "Women's Flyweight", "Women's Bantamweight"]]
+
+header = f"## UFC RANKINGS as of {max_date}\n\n"
+
+with open("README.md", "w") as f:
+    f.write(header)
+    f.write("### Men's Divisions\n\n")
+    f.write(df_men_pivot.to_markdown())
+    f.write("\n\n### Women's Divisions\n\n")
+    f.write(df_women_pivot.to_markdown())
+    f.write("\n")
