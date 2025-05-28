@@ -182,12 +182,9 @@ df_men['Combined'] = df_men['Combined'].str.replace(r'^1\s+interim', 'Interim', 
 df_women['Combined'] = df_women['Combined'].str.replace(r'^0\s+Champion', 'Champion', regex=True)
 df_women['Combined'] = df_women['Combined'].str.replace(r'^1\s+interim', 'Interim', regex=True)
 
-# Pivot using Div_Index as the index
+# Now pivot using Div_Index as the index
 df_men_pivot = df_men.pivot(index='Div_Index', columns='Division', values='Combined')
 df_women_pivot = df_women.pivot(index='Div_Index', columns='Division', values='Combined')
-
-df_men_pivot = df_men_pivot.drop(columns=['Div_Index'])
-df_women_pivot = df_women_pivot.drop(columns=['Div_Index'])
 
 df_men_pivot = df_men_pivot[['Flyweight', 'Bantamweight', 'Featherweight', 'Lightweight', 'Welterweight', 'Middleweight', 'Light Heavyweight', 'Heavyweight']]
 df_women_pivot = df_women_pivot[["Women's Strawweight", "Women's Flyweight", "Women's Bantamweight"]]
@@ -201,3 +198,5 @@ with open("README.md", "w") as f:
     f.write("\n\n### Women's Divisions\n\n")
     f.write(df_women_pivot.to_markdown())
     f.write("\n")
+
+print("README.md has been updated with the latest UFC rankings.")
