@@ -164,8 +164,8 @@ df_women = df_women.drop(columns=['Date', 'Notes', 'Fighter'])
 df_men = df_men.drop(columns=['Date', 'Notes', 'Fighter'])
 
 # Convert Ranking to numeric, errors='ignore' keeps 'Champion'/'Interim' as strings if already set
-df_men['Ranking'] = pd.to_numeric(df_men['Ranking'], errors='ignore')
-df_women['Ranking'] = pd.to_numeric(df_women['Ranking'], errors='ignore')
+df_men['Ranking'] = pd.to_numeric(df_men['Ranking'])
+df_women['Ranking'] = pd.to_numeric(df_women['Ranking'])
 
 # Sort by Division and Ranking
 df_men = df_men.sort_values(['Division', 'Ranking']).reset_index(drop=True)
