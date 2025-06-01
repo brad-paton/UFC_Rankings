@@ -56,6 +56,56 @@ def scrape_event_data(url):
 
         return df_event
     
+
+def scrape_fight_data(url):
+
+    """
+    Scrape fight data from the given URL.
+    Args:
+        url (str): The URL to scrape data from.
+    Returns: 
+        pd.DataFrame: A DataFrame containing the scraped fight data.
+    """
+
+    response = requests.get(url, timeout=20)
+    # Check if the request was successful
+    if response.status_code != 200:
+        raise Exception(f"Failed to retrieve data from {url}. Status code: {response.status_code}")
+    
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    # Get event info
+    event_info_soup = soup.find_all('td', class_ = 'decision-top2')
+    current_event = []
+
+    for text in event_info_soup:
+        current_event.append(text.get_text(strip=True,separator='||| '))  # Add text from soup into a list as a single object with ||| as a delimiter
+
+    # Split items into different objects in the list
+    current_event = current_event[0].split('||| ')
+
+    for row in soup.find_all('td', class_='list2'):
+
+        # Find the <a> tag (if it exists) within the row
+        a_tag = row.find('a')
+
+        # Extract the href if found, otherwise set to None
+        href = ['https://mmadecisions.com/' + a_tag['href'] if a_tag else None]
+
+        href.extend(current_event)
+
+        all_fight_data.append(href)
+
+    # Create dataframe
+    df_fights = pd.DataFrame(all_fight_data,columns=['url', 'Event', 'Venue', 'Location'])
+    df_fights['url'] = df_fights['url'].str.strip()
+
+    # Reorder columns
+    df_fights = df_fights[['Event', 'Location', 'Venue', 'url']]
+
+    return df_fights
+
+
 def scrape_scorecard(url):
 
     """
