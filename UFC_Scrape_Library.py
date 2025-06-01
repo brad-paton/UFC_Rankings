@@ -66,11 +66,18 @@ def scrape_fight_data(url):
     Returns: 
         pd.DataFrame: A DataFrame containing the scraped fight data.
     """
+    # Check if the URL is valid
+    url_pattern = re.compile(r'^https://mmadecisions\.com/decisions-by-event/\d+/$')
+    if not url_pattern.match(url):
+        raise ValueError(f"Invalid URL format: {url}")
 
     response = requests.get(url, timeout=20)
     # Check if the request was successful
     if response.status_code != 200:
         raise Exception(f"Failed to retrieve data from {url}. Status code: {response.status_code}")
+    
+    all_event_data = []
+
     
     soup = BeautifulSoup(response.text, 'html.parser')
 
