@@ -67,7 +67,7 @@ def scrape_fight_data(url):
         pd.DataFrame: A DataFrame containing the scraped fight data.
     """
     # Check if the URL is valid
-    url_pattern = re.compile(r'^https://mmadecisions\.com/event/\d+/$')
+    url_pattern = re.compile(r'^https://mmadecisions\.com/event/\d+/.+$')
     if not url_pattern.match(url):
         raise ValueError(f"Invalid URL format: {url}")
 
