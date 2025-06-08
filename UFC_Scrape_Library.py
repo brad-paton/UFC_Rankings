@@ -103,7 +103,11 @@ def scrape_fight_data(url):
         all_fight_data.append(href)
 
     # Create dataframe
-    df_fights = pd.DataFrame(all_fight_data,columns=['url', 'Event', 'Venue', 'Location'])
+    try:
+        df_fights = pd.DataFrame(all_fight_data,columns=['url', 'Event', 'Venue', 'Location'])
+    except Exception:
+        return None
+    
     df_fights['url'] = df_fights['url'].str.strip()
 
     # Reorder columns
