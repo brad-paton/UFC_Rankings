@@ -189,7 +189,12 @@ df_women_pivot = df_women.pivot(index='Div_Index', columns='Division', values='C
 df_men_pivot = df_men_pivot[['Flyweight', 'Bantamweight', 'Featherweight', 'Lightweight', 'Welterweight', 'Middleweight', 'Light Heavyweight', 'Heavyweight']]
 df_women_pivot = df_women_pivot[["Women's Strawweight", "Women's Flyweight", "Women's Bantamweight"]]
 
-header = f"## UFC Rankings as of {max_date}\n\n"
+df_men_pivot = df_men_pivot.reset_index(drop=True)
+df_women_pivot = df_women_pivot.reset_index(drop=True)
+
+# Create the header for the README file
+combined_max_date = combined['Date'].max()
+header = f"## UFC Rankings as of {combined_max_date}\n\n"
 
 with open("README.md", "w") as f:
     f.write(header)
