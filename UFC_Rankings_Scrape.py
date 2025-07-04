@@ -193,8 +193,7 @@ df_men_pivot = df_men_pivot.reset_index(drop=True)
 df_women_pivot = df_women_pivot.reset_index(drop=True)
 
 # Create the header for the README file
-combined_max_date = combined['Date'].max()
-header = f"## UFC Rankings as of {combined_max_date}\n\n"
+header = f"## UFC Rankings as of {max_date}\n\n"
 
 with open("README.md", "w") as f:
     f.write(header)
@@ -204,4 +203,5 @@ with open("README.md", "w") as f:
     f.write(df_women_pivot.to_markdown())
     f.write("\n")
 
-print("README.md has been updated with the latest UFC rankings.")
+
+print(f"README.md has been updated with the latest UFC rankings as of {max_date}")
