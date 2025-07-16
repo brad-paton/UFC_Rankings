@@ -1,22 +1,229 @@
 Date,Division,Fighter,Ranking,Notes
+2025-07-16,Men's Pound-for-Pound,Ilia Topuria,1,None
+2025-07-16,Men's Pound-for-Pound,Islam Makhachev,2,None
+2025-07-16,Men's Pound-for-Pound,Merab Dvalishvili,3,None
+2025-07-16,Men's Pound-for-Pound,Dricus Du Plessis,4,None
+2025-07-16,Men's Pound-for-Pound,Alexandre Pantoja,4,Rank increased by 1
+2025-07-16,Men's Pound-for-Pound,Alexander Volkanovski,6,None
+2025-07-16,Men's Pound-for-Pound,Magomed Ankalaev,7,None
+2025-07-16,Men's Pound-for-Pound,Jack Della Maddalena,8,None
+2025-07-16,Men's Pound-for-Pound,Tom Aspinall,9,None
+2025-07-16,Men's Pound-for-Pound,Alex Pereira,10,None
+2025-07-16,Men's Pound-for-Pound,Max Holloway,11,None
+2025-07-16,Men's Pound-for-Pound,Belal Muhammad,12,None
+2025-07-16,Men's Pound-for-Pound,Arman Tsarukyan,13,None
+2025-07-16,Men's Pound-for-Pound,Khamzat Chimaev,14,None
+2025-07-16,Men's Pound-for-Pound,Charles Oliveira,15,None
+2025-07-16,Flyweight,Alexandre Pantoja,0,Champion
+2025-07-16,Flyweight,Joshua Van,1,None
+2025-07-16,Flyweight,Brandon Moreno,2,None
+2025-07-16,Flyweight,Brandon Royval,3,None
+2025-07-16,Flyweight,Amir Albazi,4,None
+2025-07-16,Flyweight,Kai Kara-France,5,None
+2025-07-16,Flyweight,Tatsuro Taira,6,None
+2025-07-16,Flyweight,Manel Kape,7,None
+2025-07-16,Flyweight,Alex Perez,8,None
+2025-07-16,Flyweight,Asu Almabayev,9,None
+2025-07-16,Flyweight,Steve Erceg,10,None
+2025-07-16,Flyweight,Tim Elliott,11,None
+2025-07-16,Flyweight,Tagir Ulanbekov,12,None
+2025-07-16,Flyweight,Ramazan Temirov,13,None
+2025-07-16,Flyweight,Bruno Silva,14,None
+2025-07-16,Flyweight,Kai Asakura,15,None
+2025-07-16,Bantamweight,Merab Dvalishvili,0,Champion
+2025-07-16,Bantamweight,Sean O'Malley,1,None
+2025-07-16,Bantamweight,Umar Nurmagomedov,2,None
+2025-07-16,Bantamweight,Petr Yan,3,None
+2025-07-16,Bantamweight,Cory Sandhagen,4,None
+2025-07-16,Bantamweight,Song Yadong,5,None
+2025-07-16,Bantamweight,Deiveson Figueiredo,6,None
+2025-07-16,Bantamweight,Marlon Vera,7,None
+2025-07-16,Bantamweight,Mario Bautista,8,None
+2025-07-16,Bantamweight,Rob Font,8,None
+2025-07-16,Bantamweight,Henry Cejudo,10,None
+2025-07-16,Bantamweight,Aiemann Zahabi,11,None
+2025-07-16,Bantamweight,Kyler Phillips,12,None
+2025-07-16,Bantamweight,Marcus McGhee,13,None
+2025-07-16,Bantamweight,Montel Jackson,14,None
+2025-07-16,Bantamweight,Vinicius Oliveira,15,None
+2025-07-16,Featherweight,Alexander Volkanovski,0,Champion
+2025-07-16,Featherweight,Movsar Evloev,1,Rank increased by 1
+2025-07-16,Featherweight,Diego Lopes,2,Rank increased by 1
+2025-07-16,Featherweight,Yair Rodriguez,3,Rank increased by 1
+2025-07-16,Featherweight,Arnold Allen,4,Rank increased by 1
+2025-07-16,Featherweight,Brian Ortega,4,Rank increased by 1
+2025-07-16,Featherweight,Lerone Murphy,6,Rank increased by 1
+2025-07-16,Featherweight,Aljamain Sterling,7,Rank increased by 1
+2025-07-16,Featherweight,Josh Emmett,8,Rank increased by 1
+2025-07-16,Featherweight,Youssef Zalal,9,Rank increased by 2
+2025-07-16,Featherweight,Jean Silva,10,None
+2025-07-16,Featherweight,Dan Ige,11,Rank increased by 1
+2025-07-16,Featherweight,Steve Garcia,11,NR
+2025-07-16,Featherweight,David Onama,13,None
+2025-07-16,Featherweight,Giga Chikadze,14,Rank increased by 1
+2025-07-16,Featherweight,Bryce Mitchell,15,NR
+2025-07-16,Featherweight,Calvin Kattar,15,Rank decreased by 1
+2025-07-16,Lightweight,Ilia Topuria,0,Champion
+2025-07-16,Lightweight,Islam Makhachev,1,None
+2025-07-16,Lightweight,Arman Tsarukyan,2,None
+2025-07-16,Lightweight,Charles Oliveira,3,None
+2025-07-16,Lightweight,Justin Gaethje,4,None
+2025-07-16,Lightweight,Max Holloway,5,None
+2025-07-16,Lightweight,Dustin Poirier,6,None
+2025-07-16,Lightweight,Dan Hooker,7,None
+2025-07-16,Lightweight,Mateusz Gamrot,8,None
+2025-07-16,Lightweight,Beneil Dariush,9,None
+2025-07-16,Lightweight,Paddy Pimblett,10,None
+2025-07-16,Lightweight,Rafael Fiziev,11,None
+2025-07-16,Lightweight,Renato Moicano,12,None
+2025-07-16,Lightweight,Michael Chandler,13,None
+2025-07-16,Lightweight,Benoît Saint Denis,14,None
+2025-07-16,Lightweight,Grant Dawson,15,None
+2025-07-16,Welterweight,Jack Della Maddalena,0,Champion
+2025-07-16,Welterweight,Belal Muhammad,1,None
+2025-07-16,Welterweight,Sean Brady,2,None
+2025-07-16,Welterweight,Shavkat Rakhmonov,3,None
+2025-07-16,Welterweight,Leon Edwards,4,None
+2025-07-16,Welterweight,Kamaru Usman,5,None
+2025-07-16,Welterweight,Ian Machado Garry,6,None
+2025-07-16,Welterweight,Michael Morales,7,None
+2025-07-16,Welterweight,Joaquin Buckley,8,Rank decreased by 1
+2025-07-16,Welterweight,Colby Covington,9,None
+2025-07-16,Welterweight,Gilbert Burns,10,None
+2025-07-16,Welterweight,Geoff Neal,11,None
+2025-07-16,Welterweight,Carlos Prates,12,Rank increased by 1
+2025-07-16,Welterweight,Kevin Holland,13,Rank increased by 1
+2025-07-16,Welterweight,Gabriel Bonfim,14,NR
+2025-07-16,Welterweight,Michael Page,15,None
+2025-07-16,Middleweight,Dricus Du Plessis,0,Champion
+2025-07-16,Middleweight,Nassourdine Imavov,1,None
+2025-07-16,Middleweight,Sean Strickland,2,None
+2025-07-16,Middleweight,Khamzat Chimaev,3,None
+2025-07-16,Middleweight,Israel Adesanya,4,None
+2025-07-16,Middleweight,Robert Whittaker,5,None
+2025-07-16,Middleweight,Caio Borralho,6,None
+2025-07-16,Middleweight,Jared Cannonier,7,None
+2025-07-16,Middleweight,Roman Dolidze,8,None
+2025-07-16,Middleweight,Anthony Hernandez,9,None
+2025-07-16,Middleweight,Marvin Vettori,10,None
+2025-07-16,Middleweight,Brendan Allen,11,None
+2025-07-16,Middleweight,Reinier de Ridder,12,None
+2025-07-16,Middleweight,Paulo Costa,13,None
+2025-07-16,Middleweight,Roman Kopylov,14,None
+2025-07-16,Middleweight,Abus Magomedov,15,None
+2025-07-16,Light Heavyweight,Magomed Ankalaev,0,Champion
+2025-07-16,Light Heavyweight,Alex Pereira,1,None
+2025-07-16,Light Heavyweight,Jiří Procházka,2,None
+2025-07-16,Light Heavyweight,Carlos Ulberg,3,None
+2025-07-16,Light Heavyweight,Khalil Rountree Jr.,4,None
+2025-07-16,Light Heavyweight,Jan Błachowicz,5,None
+2025-07-16,Light Heavyweight,Jamahal Hill,6,None
+2025-07-16,Light Heavyweight,Aleksandar Rakić,7,None
+2025-07-16,Light Heavyweight,Dominick Reyes,8,None
+2025-07-16,Light Heavyweight,Volkan Oezdemir,9,None
+2025-07-16,Light Heavyweight,Nikita Krylov,10,None
+2025-07-16,Light Heavyweight,Azamat Murzakanov,11,None
+2025-07-16,Light Heavyweight,Johnny Walker,12,None
+2025-07-16,Light Heavyweight,Bogdan Guskov,13,None
+2025-07-16,Light Heavyweight,Zhang Mingyang,14,None
+2025-07-16,Light Heavyweight,Alonzo Menifield,15,None
+2025-07-16,Heavyweight,Tom Aspinall,0,Champion
+2025-07-16,Heavyweight,Ciryl Gane,1,None
+2025-07-16,Heavyweight,Alexander Volkov,2,None
+2025-07-16,Heavyweight,Sergei Pavlovich,3,None
+2025-07-16,Heavyweight,Curtis Blaydes,4,None
+2025-07-16,Heavyweight,Jailton Almeida,5,None
+2025-07-16,Heavyweight,Waldo Cortes Acosta,6,None
+2025-07-16,Heavyweight,Marcin Tybura,7,None
+2025-07-16,Heavyweight,Serghei Spivac,8,None
+2025-07-16,Heavyweight,Derrick Lewis,9,None
+2025-07-16,Heavyweight,Tai Tuivasa,10,None
+2025-07-16,Heavyweight,Shamil Gaziev,11,None
+2025-07-16,Heavyweight,Mick Parkin,12,None
+2025-07-16,Heavyweight,Martin Buday,13,Rank increased by 1
+2025-07-16,Heavyweight,Tallison Teixeira,14,Rank decreased by 1
+2025-07-16,Heavyweight,Rizvan Kuniev,15,None
+2025-07-16,Women's Pound-for-Pound,Valentina Shevchenko,1,None
+2025-07-16,Women's Pound-for-Pound,Zhang Weili,2,None
+2025-07-16,Women's Pound-for-Pound,Kayla Harrison,3,None
+2025-07-16,Women's Pound-for-Pound,Manon Fiorot,4,None
+2025-07-16,Women's Pound-for-Pound,Julianna Peña,5,None
+2025-07-16,Women's Pound-for-Pound,Natalia Silva,6,None
+2025-07-16,Women's Pound-for-Pound,Alexa Grasso,7,None
+2025-07-16,Women's Pound-for-Pound,Erin Blanchfield,8,None
+2025-07-16,Women's Pound-for-Pound,Virna Jandiroba,9,None
+2025-07-16,Women's Pound-for-Pound,Raquel Pennington,10,None
+2025-07-16,Women's Pound-for-Pound,Tatiana Suarez,11,None
+2025-07-16,Women's Pound-for-Pound,Rose Namajunas,12,None
+2025-07-16,Women's Pound-for-Pound,Yan Xiaonan,13,None
+2025-07-16,Women's Pound-for-Pound,Amanda Lemos,14,None
+2025-07-16,Women's Pound-for-Pound,Maycee Barber,15,None
+2025-07-16,Women's Strawweight,Zhang Weili,0,Champion
+2025-07-16,Women's Strawweight,Virna Jandiroba,1,None
+2025-07-16,Women's Strawweight,Tatiana Suarez,2,None
+2025-07-16,Women's Strawweight,Yan Xiaonan,3,None
+2025-07-16,Women's Strawweight,Amanda Lemos,4,None
+2025-07-16,Women's Strawweight,Jéssica Andrade,5,None
+2025-07-16,Women's Strawweight,Mackenzie Dern,6,None
+2025-07-16,Women's Strawweight,Amanda Ribas,7,None
+2025-07-16,Women's Strawweight,Iasmin Lucindo,8,None
+2025-07-16,Women's Strawweight,Gillian Robertson,9,None
+2025-07-16,Women's Strawweight,Tabatha Ricci,10,None
+2025-07-16,Women's Strawweight,Loopy Godinez,11,None
+2025-07-16,Women's Strawweight,Angela Hill,12,None
+2025-07-16,Women's Strawweight,Tecia Pennington,13,None
+2025-07-16,Women's Strawweight,Loma Lookboonmee,14,None
+2025-07-16,Women's Strawweight,Denise Gomes,15,None
+2025-07-16,Women's Flyweight,Valentina Shevchenko,0,Champion
+2025-07-16,Women's Flyweight,Natalia Silva,1,None
+2025-07-16,Women's Flyweight,Manon Fiorot,2,None
+2025-07-16,Women's Flyweight,Alexa Grasso,3,None
+2025-07-16,Women's Flyweight,Erin Blanchfield,4,None
+2025-07-16,Women's Flyweight,Jasmine Jasudavicius,5,None
+2025-07-16,Women's Flyweight,Maycee Barber,6,None
+2025-07-16,Women's Flyweight,Rose Namajunas,7,None
+2025-07-16,Women's Flyweight,Tracy Cortez,8,None
+2025-07-16,Women's Flyweight,Jéssica Andrade,9,None
+2025-07-16,Women's Flyweight,Miranda Maverick,10,Rank increased by 1
+2025-07-16,Women's Flyweight,Karine Silva,11,Rank increased by 1
+2025-07-16,Women's Flyweight,Casey O'Neill,12,Rank increased by 1
+2025-07-16,Women's Flyweight,Wang Cong,13,Rank increased by 1
+2025-07-16,Women's Flyweight,JJ Aldrich,14,Rank increased by 1
+2025-07-16,Women's Flyweight,Eduarda Moura,15,NR
+2025-07-16,Women's Bantamweight,Kayla Harrison,0,Champion
+2025-07-16,Women's Bantamweight,Julianna Peña,1,None
+2025-07-16,Women's Bantamweight,Raquel Pennington,2,None
+2025-07-16,Women's Bantamweight,Ketlen Vieira,3,None
+2025-07-16,Women's Bantamweight,Norma Dumont,4,None
+2025-07-16,Women's Bantamweight,Macy Chiasson,5,None
+2025-07-16,Women's Bantamweight,Irene Aldana,6,None
+2025-07-16,Women's Bantamweight,Ailin Perez,7,None
+2025-07-16,Women's Bantamweight,Mayra Bueno Silva,8,None
+2025-07-16,Women's Bantamweight,Yana Santos,9,None
+2025-07-16,Women's Bantamweight,Karol Rosa,10,None
+2025-07-16,Women's Bantamweight,Jacqueline Cavalcanti,11,None
+2025-07-16,Women's Bantamweight,Nora Cornolle,12,None
+2025-07-16,Women's Bantamweight,Miesha Tate,13,None
+2025-07-16,Women's Bantamweight,Joselyne Edwards,14,None
+2025-07-16,Women's Bantamweight,Daria Zhelezniakova,15,None
 2025-07-09,Men's Pound-for-Pound,Ilia Topuria,1,Rank increased by 2
 2025-07-09,Men's Pound-for-Pound,Islam Makhachev,2,Rank decreased by 1
 2025-07-09,Men's Pound-for-Pound,Merab Dvalishvili,3,Rank decreased by 1
-2025-07-09,Men's Pound-for-Pound,Dricus Du Plessis,4,None
+2025-07-09,Men's Pound-for-Pound,Dricus Du Plessis,4,
 2025-07-09,Men's Pound-for-Pound,Alexandre Pantoja,5,Rank increased by 4
-2025-07-09,Men's Pound-for-Pound,Alexander Volkanovski,6,None
+2025-07-09,Men's Pound-for-Pound,Alexander Volkanovski,6,
 2025-07-09,Men's Pound-for-Pound,Magomed Ankalaev,7,Rank decreased by 2
 2025-07-09,Men's Pound-for-Pound,Jack Della Maddalena,8,Rank decreased by 1
 2025-07-09,Men's Pound-for-Pound,Tom Aspinall,9,Rank decreased by 1
 2025-07-09,Men's Pound-for-Pound,Alex Pereira,10,Rank decreased by 1
-2025-07-09,Men's Pound-for-Pound,Max Holloway,11,None
-2025-07-09,Men's Pound-for-Pound,Belal Muhammad,12,None
+2025-07-09,Men's Pound-for-Pound,Max Holloway,11,
+2025-07-09,Men's Pound-for-Pound,Belal Muhammad,12,
 2025-07-09,Men's Pound-for-Pound,Arman Tsarukyan,13,Rank increased by 1
 2025-07-09,Men's Pound-for-Pound,Khamzat Chimaev,14,Rank increased by 1
 2025-07-09,Men's Pound-for-Pound,Charles Oliveira,15,Rank decreased by 2
 2025-07-09,Flyweight,Alexandre Pantoja,0,Champion
 2025-07-09,Flyweight,Joshua Van,1,Rank increased by 11
-2025-07-09,Flyweight,Brandon Moreno,2,None
+2025-07-09,Flyweight,Brandon Moreno,2,
 2025-07-09,Flyweight,Brandon Royval,3,Rank decreased by 2
 2025-07-09,Flyweight,Amir Albazi,4,Rank decreased by 1
 2025-07-09,Flyweight,Kai Kara-France,5,Rank decreased by 1
@@ -27,27 +234,27 @@ Date,Division,Fighter,Ranking,Notes
 2025-07-09,Flyweight,Steve Erceg,10,Rank decreased by 1
 2025-07-09,Flyweight,Tim Elliott,11,Rank decreased by 1
 2025-07-09,Flyweight,Tagir Ulanbekov,12,Rank decreased by 1
-2025-07-09,Flyweight,Ramazan Temirov,13,None
+2025-07-09,Flyweight,Ramazan Temirov,13,
 2025-07-09,Flyweight,Bruno Silva,14,Rank increased by 1
 2025-07-09,Flyweight,Kai Asakura,15,Rank decreased by 1
 2025-07-09,Bantamweight,Merab Dvalishvili,0,Champion
-2025-07-09,Bantamweight,Sean O'Malley,1,None
-2025-07-09,Bantamweight,Umar Nurmagomedov,2,None
-2025-07-09,Bantamweight,Petr Yan,3,None
-2025-07-09,Bantamweight,Cory Sandhagen,4,None
-2025-07-09,Bantamweight,Song Yadong,5,None
-2025-07-09,Bantamweight,Deiveson Figueiredo,6,None
-2025-07-09,Bantamweight,Marlon Vera,7,None
-2025-07-09,Bantamweight,Mario Bautista,8,None
-2025-07-09,Bantamweight,Rob Font,8,None
-2025-07-09,Bantamweight,Henry Cejudo,10,None
-2025-07-09,Bantamweight,Aiemann Zahabi,11,None
-2025-07-09,Bantamweight,Kyler Phillips,12,None
-2025-07-09,Bantamweight,Marcus McGhee,13,None
-2025-07-09,Bantamweight,Montel Jackson,14,None
-2025-07-09,Bantamweight,Vinicius Oliveira,15,None
+2025-07-09,Bantamweight,Sean O'Malley,1,
+2025-07-09,Bantamweight,Umar Nurmagomedov,2,
+2025-07-09,Bantamweight,Petr Yan,3,
+2025-07-09,Bantamweight,Cory Sandhagen,4,
+2025-07-09,Bantamweight,Song Yadong,5,
+2025-07-09,Bantamweight,Deiveson Figueiredo,6,
+2025-07-09,Bantamweight,Marlon Vera,7,
+2025-07-09,Bantamweight,Mario Bautista,8,
+2025-07-09,Bantamweight,Rob Font,8,
+2025-07-09,Bantamweight,Henry Cejudo,10,
+2025-07-09,Bantamweight,Aiemann Zahabi,11,
+2025-07-09,Bantamweight,Kyler Phillips,12,
+2025-07-09,Bantamweight,Marcus McGhee,13,
+2025-07-09,Bantamweight,Montel Jackson,14,
+2025-07-09,Bantamweight,Vinicius Oliveira,15,
 2025-07-09,Featherweight,Alexander Volkanovski,0,Champion
-2025-07-09,Featherweight,Max Holloway,1,None
+2025-07-09,Featherweight,Max Holloway,1,
 2025-07-09,Featherweight,Movsar Evloev,2,Rank increased by 2
 2025-07-09,Featherweight,Diego Lopes,3,Rank decreased by 1
 2025-07-09,Featherweight,Yair Rodriguez,4,Rank increased by 1
@@ -59,7 +266,7 @@ Date,Division,Fighter,Ranking,Notes
 2025-07-09,Featherweight,Jean Silva,10,Rank increased by 1
 2025-07-09,Featherweight,Youssef Zalal,11,Rank increased by 1
 2025-07-09,Featherweight,Dan Ige,12,Rank increased by 2
-2025-07-09,Featherweight,David Onama,13,None
+2025-07-09,Featherweight,David Onama,13,
 2025-07-09,Featherweight,Calvin Kattar,14,Rank increased by 1
 2025-07-09,Featherweight,Giga Chikadze,15,NR
 2025-07-09,Lightweight,Ilia Topuria,0,Champion
@@ -71,140 +278,140 @@ Date,Division,Fighter,Ranking,Notes
 2025-07-09,Lightweight,Dustin Poirier,6,Rank decreased by 1
 2025-07-09,Lightweight,Dan Hooker,7,Rank decreased by 1
 2025-07-09,Lightweight,Mateusz Gamrot,8,Rank decreased by 1
-2025-07-09,Lightweight,Beneil Dariush,9,None
+2025-07-09,Lightweight,Beneil Dariush,9,
 2025-07-09,Lightweight,Paddy Pimblett,10,Rank decreased by 2
 2025-07-09,Lightweight,Rafael Fiziev,11,Rank decreased by 1
 2025-07-09,Lightweight,Renato Moicano,12,Rank decreased by 1
 2025-07-09,Lightweight,Michael Chandler,13,Rank decreased by 1
-2025-07-09,Lightweight,Benoît Saint Denis,14,None
+2025-07-09,Lightweight,Benoît Saint Denis,14,
 2025-07-09,Lightweight,Grant Dawson,15,Rank decreased by 2
 2025-07-09,Welterweight,Jack Della Maddalena,0,Champion
-2025-07-09,Welterweight,Belal Muhammad,1,None
-2025-07-09,Welterweight,Sean Brady,2,None
-2025-07-09,Welterweight,Shavkat Rakhmonov,3,None
-2025-07-09,Welterweight,Leon Edwards,4,None
-2025-07-09,Welterweight,Kamaru Usman,5,None
-2025-07-09,Welterweight,Ian Machado Garry,6,None
-2025-07-09,Welterweight,Michael Morales,7,None
-2025-07-09,Welterweight,Joaquin Buckley,7,None
-2025-07-09,Welterweight,Colby Covington,9,None
-2025-07-09,Welterweight,Gilbert Burns,10,None
-2025-07-09,Welterweight,Geoff Neal,11,None
-2025-07-09,Welterweight,Stephen Thompson,12,None
-2025-07-09,Welterweight,Carlos Prates,13,None
-2025-07-09,Welterweight,Kevin Holland,14,None
-2025-07-09,Welterweight,Michael Page,15,None
+2025-07-09,Welterweight,Belal Muhammad,1,
+2025-07-09,Welterweight,Sean Brady,2,
+2025-07-09,Welterweight,Shavkat Rakhmonov,3,
+2025-07-09,Welterweight,Leon Edwards,4,
+2025-07-09,Welterweight,Kamaru Usman,5,
+2025-07-09,Welterweight,Ian Machado Garry,6,
+2025-07-09,Welterweight,Michael Morales,7,
+2025-07-09,Welterweight,Joaquin Buckley,7,
+2025-07-09,Welterweight,Colby Covington,9,
+2025-07-09,Welterweight,Gilbert Burns,10,
+2025-07-09,Welterweight,Geoff Neal,11,
+2025-07-09,Welterweight,Stephen Thompson,12,
+2025-07-09,Welterweight,Carlos Prates,13,
+2025-07-09,Welterweight,Kevin Holland,14,
+2025-07-09,Welterweight,Michael Page,15,
 2025-07-09,Middleweight,Dricus Du Plessis,0,Champion
-2025-07-09,Middleweight,Nassourdine Imavov,1,None
-2025-07-09,Middleweight,Sean Strickland,2,None
-2025-07-09,Middleweight,Khamzat Chimaev,3,None
-2025-07-09,Middleweight,Israel Adesanya,4,None
-2025-07-09,Middleweight,Robert Whittaker,5,None
-2025-07-09,Middleweight,Caio Borralho,6,None
-2025-07-09,Middleweight,Jared Cannonier,7,None
-2025-07-09,Middleweight,Roman Dolidze,8,None
-2025-07-09,Middleweight,Anthony Hernandez,9,None
-2025-07-09,Middleweight,Marvin Vettori,10,None
-2025-07-09,Middleweight,Brendan Allen,11,None
-2025-07-09,Middleweight,Reinier de Ridder,12,None
-2025-07-09,Middleweight,Paulo Costa,13,None
-2025-07-09,Middleweight,Roman Kopylov,14,None
+2025-07-09,Middleweight,Nassourdine Imavov,1,
+2025-07-09,Middleweight,Sean Strickland,2,
+2025-07-09,Middleweight,Khamzat Chimaev,3,
+2025-07-09,Middleweight,Israel Adesanya,4,
+2025-07-09,Middleweight,Robert Whittaker,5,
+2025-07-09,Middleweight,Caio Borralho,6,
+2025-07-09,Middleweight,Jared Cannonier,7,
+2025-07-09,Middleweight,Roman Dolidze,8,
+2025-07-09,Middleweight,Anthony Hernandez,9,
+2025-07-09,Middleweight,Marvin Vettori,10,
+2025-07-09,Middleweight,Brendan Allen,11,
+2025-07-09,Middleweight,Reinier de Ridder,12,
+2025-07-09,Middleweight,Paulo Costa,13,
+2025-07-09,Middleweight,Roman Kopylov,14,
 2025-07-09,Middleweight,Abus Magomedov,15,Rank decreased by 1
 2025-07-09,Light Heavyweight,Magomed Ankalaev,0,Champion
-2025-07-09,Light Heavyweight,Alex Pereira,1,None
-2025-07-09,Light Heavyweight,Jiří Procházka,2,None
-2025-07-09,Light Heavyweight,Carlos Ulberg,3,None
-2025-07-09,Light Heavyweight,Khalil Rountree Jr.,4,None
-2025-07-09,Light Heavyweight,Jan Błachowicz,5,None
-2025-07-09,Light Heavyweight,Jamahal Hill,6,None
-2025-07-09,Light Heavyweight,Aleksandar Rakić,7,None
-2025-07-09,Light Heavyweight,Dominick Reyes,8,None
-2025-07-09,Light Heavyweight,Volkan Oezdemir,9,None
-2025-07-09,Light Heavyweight,Nikita Krylov,10,None
-2025-07-09,Light Heavyweight,Azamat Murzakanov,11,None
-2025-07-09,Light Heavyweight,Johnny Walker,12,None
-2025-07-09,Light Heavyweight,Bogdan Guskov,13,None
-2025-07-09,Light Heavyweight,Zhang Mingyang,14,None
-2025-07-09,Light Heavyweight,Alonzo Menifield,15,None
+2025-07-09,Light Heavyweight,Alex Pereira,1,
+2025-07-09,Light Heavyweight,Jiří Procházka,2,
+2025-07-09,Light Heavyweight,Carlos Ulberg,3,
+2025-07-09,Light Heavyweight,Khalil Rountree Jr.,4,
+2025-07-09,Light Heavyweight,Jan Błachowicz,5,
+2025-07-09,Light Heavyweight,Jamahal Hill,6,
+2025-07-09,Light Heavyweight,Aleksandar Rakić,7,
+2025-07-09,Light Heavyweight,Dominick Reyes,8,
+2025-07-09,Light Heavyweight,Volkan Oezdemir,9,
+2025-07-09,Light Heavyweight,Nikita Krylov,10,
+2025-07-09,Light Heavyweight,Azamat Murzakanov,11,
+2025-07-09,Light Heavyweight,Johnny Walker,12,
+2025-07-09,Light Heavyweight,Bogdan Guskov,13,
+2025-07-09,Light Heavyweight,Zhang Mingyang,14,
+2025-07-09,Light Heavyweight,Alonzo Menifield,15,
 2025-07-09,Heavyweight,Tom Aspinall,0,Champion
-2025-07-09,Heavyweight,Ciryl Gane,1,None
-2025-07-09,Heavyweight,Alexander Volkov,2,None
-2025-07-09,Heavyweight,Sergei Pavlovich,3,None
-2025-07-09,Heavyweight,Curtis Blaydes,4,None
-2025-07-09,Heavyweight,Jailton Almeida,5,None
-2025-07-09,Heavyweight,Waldo Cortes Acosta,6,None
-2025-07-09,Heavyweight,Marcin Tybura,7,None
-2025-07-09,Heavyweight,Serghei Spivac,8,None
-2025-07-09,Heavyweight,Derrick Lewis,9,None
-2025-07-09,Heavyweight,Tai Tuivasa,10,None
-2025-07-09,Heavyweight,Shamil Gaziev,11,None
-2025-07-09,Heavyweight,Mick Parkin,12,None
-2025-07-09,Heavyweight,Tallison Teixeira,13,None
-2025-07-09,Heavyweight,Martin Buday,14,None
-2025-07-09,Heavyweight,Rizvan Kuniev,15,None
-2025-07-09,Women's Pound-for-Pound,Valentina Shevchenko,1,None
-2025-07-09,Women's Pound-for-Pound,Zhang Weili,2,None
-2025-07-09,Women's Pound-for-Pound,Kayla Harrison,3,None
-2025-07-09,Women's Pound-for-Pound,Manon Fiorot,4,None
-2025-07-09,Women's Pound-for-Pound,Julianna Peña,5,None
-2025-07-09,Women's Pound-for-Pound,Natalia Silva,6,None
-2025-07-09,Women's Pound-for-Pound,Alexa Grasso,7,None
-2025-07-09,Women's Pound-for-Pound,Erin Blanchfield,8,None
-2025-07-09,Women's Pound-for-Pound,Virna Jandiroba,9,None
-2025-07-09,Women's Pound-for-Pound,Raquel Pennington,10,None
-2025-07-09,Women's Pound-for-Pound,Tatiana Suarez,11,None
-2025-07-09,Women's Pound-for-Pound,Rose Namajunas,12,None
-2025-07-09,Women's Pound-for-Pound,Yan Xiaonan,13,None
-2025-07-09,Women's Pound-for-Pound,Amanda Lemos,14,None
-2025-07-09,Women's Pound-for-Pound,Maycee Barber,15,None
+2025-07-09,Heavyweight,Ciryl Gane,1,
+2025-07-09,Heavyweight,Alexander Volkov,2,
+2025-07-09,Heavyweight,Sergei Pavlovich,3,
+2025-07-09,Heavyweight,Curtis Blaydes,4,
+2025-07-09,Heavyweight,Jailton Almeida,5,
+2025-07-09,Heavyweight,Waldo Cortes Acosta,6,
+2025-07-09,Heavyweight,Marcin Tybura,7,
+2025-07-09,Heavyweight,Serghei Spivac,8,
+2025-07-09,Heavyweight,Derrick Lewis,9,
+2025-07-09,Heavyweight,Tai Tuivasa,10,
+2025-07-09,Heavyweight,Shamil Gaziev,11,
+2025-07-09,Heavyweight,Mick Parkin,12,
+2025-07-09,Heavyweight,Tallison Teixeira,13,
+2025-07-09,Heavyweight,Martin Buday,14,
+2025-07-09,Heavyweight,Rizvan Kuniev,15,
+2025-07-09,Women's Pound-for-Pound,Valentina Shevchenko,1,
+2025-07-09,Women's Pound-for-Pound,Zhang Weili,2,
+2025-07-09,Women's Pound-for-Pound,Kayla Harrison,3,
+2025-07-09,Women's Pound-for-Pound,Manon Fiorot,4,
+2025-07-09,Women's Pound-for-Pound,Julianna Peña,5,
+2025-07-09,Women's Pound-for-Pound,Natalia Silva,6,
+2025-07-09,Women's Pound-for-Pound,Alexa Grasso,7,
+2025-07-09,Women's Pound-for-Pound,Erin Blanchfield,8,
+2025-07-09,Women's Pound-for-Pound,Virna Jandiroba,9,
+2025-07-09,Women's Pound-for-Pound,Raquel Pennington,10,
+2025-07-09,Women's Pound-for-Pound,Tatiana Suarez,11,
+2025-07-09,Women's Pound-for-Pound,Rose Namajunas,12,
+2025-07-09,Women's Pound-for-Pound,Yan Xiaonan,13,
+2025-07-09,Women's Pound-for-Pound,Amanda Lemos,14,
+2025-07-09,Women's Pound-for-Pound,Maycee Barber,15,
 2025-07-09,Women's Strawweight,Zhang Weili,0,Champion
-2025-07-09,Women's Strawweight,Virna Jandiroba,1,None
-2025-07-09,Women's Strawweight,Tatiana Suarez,2,None
-2025-07-09,Women's Strawweight,Yan Xiaonan,3,None
-2025-07-09,Women's Strawweight,Amanda Lemos,4,None
-2025-07-09,Women's Strawweight,Jéssica Andrade,5,None
-2025-07-09,Women's Strawweight,Mackenzie Dern,6,None
-2025-07-09,Women's Strawweight,Amanda Ribas,7,None
-2025-07-09,Women's Strawweight,Iasmin Lucindo,8,None
-2025-07-09,Women's Strawweight,Gillian Robertson,9,None
-2025-07-09,Women's Strawweight,Tabatha Ricci,10,None
-2025-07-09,Women's Strawweight,Loopy Godinez,11,None
-2025-07-09,Women's Strawweight,Angela Hill,12,None
-2025-07-09,Women's Strawweight,Tecia Pennington,13,None
-2025-07-09,Women's Strawweight,Loma Lookboonmee,14,None
-2025-07-09,Women's Strawweight,Denise Gomes,15,None
+2025-07-09,Women's Strawweight,Virna Jandiroba,1,
+2025-07-09,Women's Strawweight,Tatiana Suarez,2,
+2025-07-09,Women's Strawweight,Yan Xiaonan,3,
+2025-07-09,Women's Strawweight,Amanda Lemos,4,
+2025-07-09,Women's Strawweight,Jéssica Andrade,5,
+2025-07-09,Women's Strawweight,Mackenzie Dern,6,
+2025-07-09,Women's Strawweight,Amanda Ribas,7,
+2025-07-09,Women's Strawweight,Iasmin Lucindo,8,
+2025-07-09,Women's Strawweight,Gillian Robertson,9,
+2025-07-09,Women's Strawweight,Tabatha Ricci,10,
+2025-07-09,Women's Strawweight,Loopy Godinez,11,
+2025-07-09,Women's Strawweight,Angela Hill,12,
+2025-07-09,Women's Strawweight,Tecia Pennington,13,
+2025-07-09,Women's Strawweight,Loma Lookboonmee,14,
+2025-07-09,Women's Strawweight,Denise Gomes,15,
 2025-07-09,Women's Flyweight,Valentina Shevchenko,0,Champion
-2025-07-09,Women's Flyweight,Natalia Silva,1,None
-2025-07-09,Women's Flyweight,Manon Fiorot,2,None
-2025-07-09,Women's Flyweight,Alexa Grasso,3,None
-2025-07-09,Women's Flyweight,Erin Blanchfield,4,None
-2025-07-09,Women's Flyweight,Jasmine Jasudavicius,5,None
+2025-07-09,Women's Flyweight,Natalia Silva,1,
+2025-07-09,Women's Flyweight,Manon Fiorot,2,
+2025-07-09,Women's Flyweight,Alexa Grasso,3,
+2025-07-09,Women's Flyweight,Erin Blanchfield,4,
+2025-07-09,Women's Flyweight,Jasmine Jasudavicius,5,
 2025-07-09,Women's Flyweight,Maycee Barber,6,Rank decreased by 1
-2025-07-09,Women's Flyweight,Rose Namajunas,7,None
+2025-07-09,Women's Flyweight,Rose Namajunas,7,
 2025-07-09,Women's Flyweight,Tracy Cortez,8,Rank increased by 2
-2025-07-09,Women's Flyweight,Jéssica Andrade,9,None
+2025-07-09,Women's Flyweight,Jéssica Andrade,9,
 2025-07-09,Women's Flyweight,Viviane Araújo,10,Rank decreased by 2
-2025-07-09,Women's Flyweight,Miranda Maverick,11,None
-2025-07-09,Women's Flyweight,Karine Silva,12,None
-2025-07-09,Women's Flyweight,Casey O'Neill,13,None
-2025-07-09,Women's Flyweight,Wang Cong,14,None
-2025-07-09,Women's Flyweight,JJ Aldrich,15,None
+2025-07-09,Women's Flyweight,Miranda Maverick,11,
+2025-07-09,Women's Flyweight,Karine Silva,12,
+2025-07-09,Women's Flyweight,Casey O'Neill,13,
+2025-07-09,Women's Flyweight,Wang Cong,14,
+2025-07-09,Women's Flyweight,JJ Aldrich,15,
 2025-07-09,Women's Bantamweight,Kayla Harrison,0,Champion
-2025-07-09,Women's Bantamweight,Julianna Peña,1,None
-2025-07-09,Women's Bantamweight,Raquel Pennington,2,None
-2025-07-09,Women's Bantamweight,Ketlen Vieira,3,None
-2025-07-09,Women's Bantamweight,Norma Dumont,4,None
-2025-07-09,Women's Bantamweight,Macy Chiasson,5,None
-2025-07-09,Women's Bantamweight,Irene Aldana,6,None
-2025-07-09,Women's Bantamweight,Ailin Perez,7,None
-2025-07-09,Women's Bantamweight,Mayra Bueno Silva,8,None
-2025-07-09,Women's Bantamweight,Yana Santos,9,None
-2025-07-09,Women's Bantamweight,Karol Rosa,10,None
-2025-07-09,Women's Bantamweight,Jacqueline Cavalcanti,11,None
-2025-07-09,Women's Bantamweight,Nora Cornolle,12,None
-2025-07-09,Women's Bantamweight,Miesha Tate,13,None
-2025-07-09,Women's Bantamweight,Joselyne Edwards,14,None
-2025-07-09,Women's Bantamweight,Daria Zhelezniakova,15,None
+2025-07-09,Women's Bantamweight,Julianna Peña,1,
+2025-07-09,Women's Bantamweight,Raquel Pennington,2,
+2025-07-09,Women's Bantamweight,Ketlen Vieira,3,
+2025-07-09,Women's Bantamweight,Norma Dumont,4,
+2025-07-09,Women's Bantamweight,Macy Chiasson,5,
+2025-07-09,Women's Bantamweight,Irene Aldana,6,
+2025-07-09,Women's Bantamweight,Ailin Perez,7,
+2025-07-09,Women's Bantamweight,Mayra Bueno Silva,8,
+2025-07-09,Women's Bantamweight,Yana Santos,9,
+2025-07-09,Women's Bantamweight,Karol Rosa,10,
+2025-07-09,Women's Bantamweight,Jacqueline Cavalcanti,11,
+2025-07-09,Women's Bantamweight,Nora Cornolle,12,
+2025-07-09,Women's Bantamweight,Miesha Tate,13,
+2025-07-09,Women's Bantamweight,Joselyne Edwards,14,
+2025-07-09,Women's Bantamweight,Daria Zhelezniakova,15,
 2025-07-02,Men's Pound-for-Pound,Ilia Topuria,1,Rank increased by 2
 2025-07-02,Men's Pound-for-Pound,Islam Makhachev,2,Rank decreased by 1
 2025-07-02,Men's Pound-for-Pound,Merab Dvalishvili,3,Rank decreased by 1
