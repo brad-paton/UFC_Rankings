@@ -27,6 +27,6 @@ jobs:
         run:  |
           git config --global user.email 'bpaton50000@gmail.com'
           git config --global user.name 'brad-paton'
-          git add UFC_Rankings.csv
-          git commit -m "Update UFC Rankings CSV"
+          git add .
+          git commit -m "Updated $(date +%Y-%m-%d)" || true
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/brad-paton/UFC_Rankings.git HEAD:main
