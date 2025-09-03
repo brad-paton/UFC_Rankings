@@ -1,4 +1,4 @@
-## UFC Rankings as of 2025-08-27
+## UFC Rankings as of 2025-09-03
 
 ### Men's Divisions
 
@@ -19,7 +19,7 @@
 | 12 | 12 - Tagir Ulanbekov           | 12 - Vinicius Oliveira         | 12 - Steve Garcia                  | 12 - Michael Chandler     | 12 - Geoff Neal                   | 12 - Roman Dolidze           | 12 - Johnny Walker	▲ 1        | 12 - Mick Parkin          |
 | 13 | 13 - Charles Johnson	▲ 2       | 13 - Marcus McGhee             | 13 - David Onama                   | 13 - Benoît Saint Denis   | 13 - Daniel Rodriguez             | 13 - Paulo Costa             | 13 - Nikita Krylov	▼ 1        | 13 - Tallison Teixeira    |
 | 14 | 14 - Ramazan Temirov	▼ 1       | 14 - Kyler Phillips            | 14 - Dan Ige                       | 14 - Grant Dawson         | 14 - Gabriel Bonfim               | 14 - Marvin Vettori          | 14 - Alonzo Menifield	▲ 1     | 14 - Valter Walker        |
-| 15 | 15 - Bruno Silva	▼ 1           | 15 - Montel Jackson            | 15 - Giga Chikadze                 | 15 - Joel Álvarez	NR      | 15 - Kevin Holland                | 15 - Roman Kopylov           | 15 - Zhang Mingyang	▼ 1       | 15 - Rizvan Kuniev        |
+| 15 | 15 - Bruno Silva	▼ 1           | 15 - Montel Jackson            | 15 - Giga Chikadze                 | 15 - Mauricio Ruffy       | 15 - Kevin Holland                | 15 - Roman Kopylov           | 15 - Zhang Mingyang	▼ 1       | 15 - Rizvan Kuniev        |
 
 ### Women's Divisions
 
