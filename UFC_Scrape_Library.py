@@ -43,18 +43,17 @@ def scrape_event_data(url):
         row_data.append('https://mmadecisions.com/' + href)
 
         all_event_data.append(row_data)
-        # Convert the list of lists to a DataFrame
 
-        # Create DataFrame with an extra column for the href
-        df_event = pd.DataFrame(all_event_data, columns=['Date', 'Event', 'NumFights', 'url'])
+    # Create DataFrame with an extra column for the href
+    df_event = pd.DataFrame(all_event_data, columns=['Date', 'Event', 'NumFights', 'url'])
 
-        # Change date column to date format
-        df_event['Date'] = pd.to_datetime(df_event['Date']).dt.date
+    # Change date column to date format
+    df_event['Date'] = pd.to_datetime(df_event['Date']).dt.date
 
-        # Sort descending by date
-        df_event = df_event.sort_values(by='Date', ascending=False)
+    # Sort descending by date
+    df_event = df_event.sort_values(by='Date', ascending=False)
 
-        return df_event
+    return df_event
     
 
 def scrape_fight_data(url):
