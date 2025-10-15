@@ -1,12 +1,12 @@
-## UFC Rankings as of 2025-10-08
+## UFC Rankings as of 2025-10-15
 
 ### Men's Divisions
 
 |    | Flyweight             | Bantamweight          | Featherweight             | Lightweight        | Welterweight             | Middleweight        | Light Heavyweight       | Heavyweight         |
 |---:|:----------------------|:----------------------|:--------------------------|:-------------------|:-------------------------|:--------------------|:------------------------|:--------------------|
 |  0 | Alexandre Pantoja	(C) | Merab Dvalishvili	(C) | Alexander Volkanovski	(C) | Ilia Topuria	(C)   | Jack Della Maddalena	(C) | Khamzat Chimaev	(C) | Alex Pereira	(C)        | Tom Aspinall	(C)    |
-|  1 | Joshua Van            | Sean O'Malley         | Movsar Evloev             | Islam Makhachev    | Belal Muhammad           | Dricus Du Plessis   | Magomed Ankalaev	▼ 1    | Ciryl Gane          |
-|  2 | Brandon Moreno        | Umar Nurmagomedov     | Diego Lopes               | Arman Tsarukyan    | Sean Brady               | Nassourdine Imavov  | Jiří Procházka	▲ 1      | Alexander Volkov    |
+|  1 | Joshua Van            | Sean O'Malley         | Movsar Evloev             | Islam Makhachev    | Belal Muhammad           | Dricus Du Plessis   | Jiří Procházka	▲ 1      | Ciryl Gane          |
+|  2 | Brandon Moreno        | Umar Nurmagomedov     | Diego Lopes               | Arman Tsarukyan    | Sean Brady               | Nassourdine Imavov  | Magomed Ankalaev	▼ 1    | Alexander Volkov    |
 |  3 | Brandon Royval        | Petr Yan	▲ 1          | Yair Rodriguez            | Max Holloway       | Shavkat Rakhmonov        | Sean Strickland     | Carlos Ulberg           | Sergei Pavlovich    |
 |  4 | Amir Albazi           | Cory Sandhagen        | Lerone Murphy             | Charles Oliveira   | Leon Edwards             | Reinier de Ridder   | Jan Błachowicz	▲ 1      | Curtis Blaydes      |
 |  5 | Tatsuro Taira         | Song Yadong           | Aljamain Sterling         | Justin Gaethje     | Kamaru Usman             | Israel Adesanya     | Khalil Rountree Jr.	▼ 1 | Jailton Almeida     |
