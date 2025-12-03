@@ -1,4 +1,4 @@
-## UFC Rankings as of 2025-11-26
+## UFC Rankings as of 2025-12-03
 
 ### Men's Divisions
 
