@@ -23,6 +23,8 @@ jobs:
         uses: py-actions/py-dependency-install@v4
       - name: Run Script
         run: python UFC_Rankings_Scrape.py
+      - name: Run UFCStatsScrape
+        run: python UFCStatsScrape.py
       - name: Commit and push changes
         run:  |
           git config --global user.email 'bpaton50000@gmail.com'
