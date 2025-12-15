@@ -191,14 +191,21 @@ df_women_pivot = df_women_pivot[["Women's Strawweight", "Women's Flyweight", "Wo
 
 df_men_pivot = df_men_pivot.reset_index(drop=True)
 df_women_pivot = df_women_pivot.reset_index(drop=True)
+# Split df_men_pivot into light and heavy divisions
+light_divisions = ['Flyweight', 'Bantamweight', 'Featherweight', 'Lightweight']
+heavy_divisions = ['Welterweight', 'Middleweight', 'Light Heavyweight', 'Heavyweight']
 
+df_men_light = df_men_pivot[light_divisions]
+df_men_heavy = df_men_pivot[heavy_divisions]
 # Create the header for the README file
 header = f"## UFC Rankings as of {max_date}\n\n"
 
 with open("README.md", "w") as f:
     f.write(header)
-    f.write("### Men's Divisions\n\n")
-    f.write(df_men_pivot.to_markdown())
+    f.write("### Men's Light Divisions\n\n")
+    f.write(df_men_light.to_markdown())
+    f.write("### Men's Heavy Divisions\n\n")
+    f.write(df_men_heavy.to_markdown())
     f.write("\n\n### Women's Divisions\n\n")
     f.write(df_women_pivot.to_markdown())
     f.write("\n")
