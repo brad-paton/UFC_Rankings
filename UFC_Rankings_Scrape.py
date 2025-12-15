@@ -117,7 +117,7 @@ df['Date'] = datetime.now().strftime('%Y-%m-%d')
 df = df[['Date', 'Division', 'Fighter', 'Ranking', 'Notes']]
 
 #Read in existing csv from repository
-existing_csv = pd.read_csv('UFC_Rankings.csv')
+existing_csv = pd.read_csv('datasets/UFC_Rankings.csv')
 
 #Combine the existing csv with the new data
 combined = pd.concat([existing_csv, df], ignore_index=False)
@@ -130,7 +130,7 @@ combined['Ranking'] = combined['Ranking'].astype(int)
 
 #Sort values and convert back to a csv
 combined = combined.sort_values(by=['Date', 'Division', 'Ranking'], ascending=[False, True, True])
-combined.to_csv('UFC_Rankings.csv', index=False)
+combined.to_csv('datasets/UFC_Rankings.csv', index=False)
 
 # Get the max date from the DataFrame
 max_date = df['Date'].max()
