@@ -1,4 +1,4 @@
-## UFC Rankings as of 2025-12-24
+## UFC Rankings as of 2025-12-31
 
 ### Men's Light Divisions
 
@@ -24,8 +24,8 @@
 |    | Welterweight          | Middleweight        | Light Heavyweight   | Heavyweight         |
 |---:|:----------------------|:--------------------|:--------------------|:--------------------|
 |  0 | Islam Makhachev	(C)   | Khamzat Chimaev	(C) | Alex Pereira	(C)    | Tom Aspinall	(C)    |
-|  1 | Jack Della Maddalena  | Dricus Du Plessis   | Magomed Ankalaev    | Ciryl Gane          |
-|  2 | Shavkat Rakhmonov	▲ 1 | Nassourdine Imavov  | Jiří Procházka      | Alexander Volkov    |
+|  1 | Jack Della Maddalena  | Dricus Du Plessis   | Jiří Procházka      | Ciryl Gane          |
+|  2 | Shavkat Rakhmonov	▲ 1 | Nassourdine Imavov  | Magomed Ankalaev    | Alexander Volkov    |
 |  3 | Ian Machado Garry	▼ 1 | Sean Strickland     | Carlos Ulberg       | Sergei Pavlovich    |
 |  4 | Michael Morales       | Anthony Hernandez   | Khalil Rountree Jr. | Curtis Blaydes      |
 |  5 | Belal Muhammad        | Brendan Allen       | Jan Błachowicz      | Waldo Cortes Acosta |
@@ -33,8 +33,8 @@
 |  7 | Sean Brady            | Caio Borralho       | Jamahal Hill        | Serghei Spivac      |
 |  8 | Kamaru Usman          | Reinier de Ridder   | Volkan Oezdemir     | Derrick Lewis       |
 |  9 | Leon Edwards          | Robert Whittaker    | Dominick Reyes      | Ante Delija         |
-| 10 | Joaquin Buckley       | Michael Page        | Bogdan Guskov       | Marcin Tybura       |
-| 11 | Gabriel Bonfim        | Jared Cannonier     | Aleksandar Rakić    | Shamil Gaziev       |
+| 10 | Joaquin Buckley       | Jared Cannonier     | Bogdan Guskov       | Marcin Tybura       |
+| 11 | Gabriel Bonfim        | Michael Page        | Aleksandar Rakić    | Shamil Gaziev       |
 | 12 | Gilbert Burns         | Roman Dolidze       | Johnny Walker       | Tai Tuivasa         |
 | 13 | Geoff Neal	▲ 1        | Paulo Costa         | Nikita Krylov       | Mick Parkin         |
 | 14 | Colby Covington	▼ 1   | Gregory Rodrigues   | Zhang Mingyang      | Valter Walker       |
