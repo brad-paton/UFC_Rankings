@@ -1,4 +1,4 @@
-## UFC Rankings as of 2026-01-14
+## UFC Rankings as of 2026-01-21
 
 ### Men's Light Divisions
 
