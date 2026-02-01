@@ -142,15 +142,17 @@ df_women = df[df['Division'].str.lower().str.contains("women's")].copy()
 # DataFrame with divisions NOT containing "women's"
 df_men = df[~df['Division'].str.lower().str.contains("women's")].copy()
 
+# Fill NaN values with empty string before processing
+df_men['Notes'] = df_men['Notes'].fillna('')
+df_women['Notes'] = df_women['Notes'].fillna('')
+
 # Clean notes
 df_men['Notes'] = df_men['Notes'].replace({
-    'None': '',
     'Rank increased by': '▲',
     'Rank decreased by': '▼'
 }, regex=True)
 
 df_women['Notes'] = df_women['Notes'].replace({
-    'None': '',
     'Rank increased by': '▲',
     'Rank decreased by': '▼'
 }, regex=True)
@@ -177,7 +179,7 @@ df_women['Rank'] = df_women.groupby('Division').cumcount()
 
 # Replace only the leading '0  Champion' or '1  Interim' with 'Champion' or 'Interim'
 df_men['Combined'] = df_men['Combined'].str.replace(r'Champion$', '(C)', regex=True)
-df_men['Combined'] = df_men['Combined'].str.replace(r'interim$', '(I))', regex=True)
+df_men['Combined'] = df_men['Combined'].str.replace(r'interim$', '(I)', regex=True)
 
 df_women['Combined'] = df_women['Combined'].str.replace(r'Champion$', '(C)', regex=True)
 df_women['Combined'] = df_women['Combined'].str.replace(r'interim$', '(I)', regex=True)
@@ -185,6 +187,10 @@ df_women['Combined'] = df_women['Combined'].str.replace(r'interim$', '(I)', rege
 # Now pivot using Rank as the index
 df_men_pivot = df_men.pivot(index='Rank', columns='Division', values='Combined')
 df_women_pivot = df_women.pivot(index='Rank', columns='Division', values='Combined')
+
+# Fill NaN values with empty strings
+df_men_pivot = df_men_pivot.fillna('')
+df_women_pivot = df_women_pivot.fillna('')
 
 df_men_pivot = df_men_pivot[['Flyweight', 'Bantamweight', 'Featherweight', 'Lightweight', 'Welterweight', 'Middleweight', 'Light Heavyweight', 'Heavyweight']]
 df_women_pivot = df_women_pivot[["Women's Strawweight", "Women's Flyweight", "Women's Bantamweight"]]
