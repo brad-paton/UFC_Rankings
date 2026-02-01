@@ -50,7 +50,7 @@ df['Fighter'] = df['Fighter'].astype(str)
 
 #Iterate through rows to add number ranks changed to notes
 for index, row in df.iterrows():
-    if 'Rank' in row['Notes']:
+    if isinstance(row['Notes'], str) and 'Rank' in row['Notes']:
         if index + 1 < len(df):
             nextrow = df.iloc[index + 1]['Fighter']
             df.at[index, 'Notes'] += ' ' + nextrow
@@ -163,9 +163,9 @@ df_women['Combined'] = df_women['Fighter'] + '\t' + df_women['Notes']
 df_women = df_women.drop(columns=['Date', 'Notes', 'Fighter'])
 df_men = df_men.drop(columns=['Date', 'Notes', 'Fighter'])
 
-# Convert Ranking to numeric, errors='ignore' keeps 'Champion'/'Interim' as strings if already set
-df_men['Ranking'] = pd.to_numeric(df_men['Ranking'], errors='ignore')
-df_women['Ranking'] = pd.to_numeric(df_women['Ranking'], errors='ignore')
+# Convert Ranking to numeric, coerce non-numeric values to NaN
+df_men['Ranking'] = pd.to_numeric(df_men['Ranking'], errors='coerce')
+df_women['Ranking'] = pd.to_numeric(df_women['Ranking'], errors='coerce')
 
 # Sort by Division and Ranking
 df_men = df_men.sort_values(['Division', 'Ranking']).reset_index(drop=True)
