@@ -1,4 +1,4 @@
-## UFC Rankings as of 2026-02-11
+## UFC Rankings as of 2026-02-18
 
 ### Men's Light Divisions
 
@@ -37,8 +37,8 @@
 | 11 | Gilbert Burns	▼ 1    | Roman Dolidze       | Aleksandar Rakić    | Derrick Lewis	▼ 2     |
 | 12 | Geoff Neal           | Paulo Costa         | Johnny Walker       | Tallison Teixeira	▼ 1 |
 | 13 | Daniel Rodriguez	▲ 1 | Gregory Rodrigues   | Nikita Krylov       | Shamil Gaziev	▼ 1     |
-| 14 | Michael Page	▲ 1     | Joe Pyfer           | Dustin Jacoby	NR    | Valter Walker         |
-| 15 | Colby Covington	▼ 1  | Brunno Ferreira     | Zhang Mingyang	▼ 1  | Mick Parkin	▼ 2       |
+| 14 | Colby Covington	▼ 1  | Joe Pyfer           | Dustin Jacoby	NR    | Valter Walker         |
+| 15 | Michael Page	▲ 1     | Brunno Ferreira     | Zhang Mingyang	▼ 1  | Mick Parkin	▼ 2       |
 
 ### Women's Divisions
 
