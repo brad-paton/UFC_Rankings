@@ -1,4 +1,4 @@
-## UFC Rankings as of 2026-03-25
+## UFC Rankings as of 2026-04-01
 
 ### Men's Light Divisions
 
@@ -21,24 +21,24 @@
 | 14 | Tagir Ulanbekov   | Montel Jackson      | David Onama               | Manuel Torres      |
 | 15 | Bruno Silva       | Farid Basharat      | Josh Emmett               | Farès Ziam         |### Men's Heavy Divisions
 
-|    | Welterweight         | Middleweight              | Light Heavyweight   | Heavyweight         |
-|---:|:---------------------|:--------------------------|:--------------------|:--------------------|
-|  0 | Islam Makhachev	(C)  | Khamzat Chimaev	(C)       | Alex Pereira	(C)    | Tom Aspinall	(C)    |
-|  1 | Jack Della Maddalena | Dricus Du Plessis         | Magomed Ankalaev    | Ciryl Gane          |
-|  2 | Ian Machado Garry    | Nassourdine Imavov        | Jiří Procházka      | Alexander Volkov    |
-|  3 | Michael Morales      | Sean Strickland           | Carlos Ulberg       | Sergei Pavlovich    |
-|  4 | Belal Muhammad       | Israel Adesanya           | Khalil Rountree Jr. | Curtis Blaydes      |
-|  5 | Carlos Prates        | Caio Borralho             | Jan Błachowicz      | Waldo Cortes Acosta |
-|  6 | Sean Brady           | Brendan Allen             | Azamat Murzakanov   | Serghei Spivac      |
-|  7 | Kamaru Usman         | Anthony Hernandez         | Jamahal Hill        | Rizvan Kuniev       |
-|  8 | Leon Edwards         | Reinier de Ridder         | Bogdan Guskov       | Marcin Tybura       |
-|  9 | Joaquin Buckley      | Robert Whittaker          | Volkan Oezdemir     | Derrick Lewis       |
-| 10 | Gabriel Bonfim       | Jared Cannonier           | Dominick Reyes      | Ante Delija         |
-| 11 | Gilbert Burns        | Gregory Rodrigues	▲ 1     | Aleksandar Rakić    | Tallison Teixeira   |
-| 12 | Michael Page	▲ 1     | Christian Leroy Duncan	NR | Johnny Walker       | Mick Parkin         |
-| 13 | Uroš Medić	▼ 1       | Paulo Costa               | Nikita Krylov       | Shamil Gaziev       |
-| 14 | Colby Covington      | Joe Pyfer                 | Dustin Jacoby       | Valter Walker       |
-| 15 | Daniel Rodriguez     | Roman Dolidze	▼ 4         | Zhang Mingyang      | Vitor Petrino       |
+|    | Welterweight         | Middleweight               | Light Heavyweight   | Heavyweight           |
+|---:|:---------------------|:---------------------------|:--------------------|:----------------------|
+|  0 | Islam Makhachev	(C)  | Khamzat Chimaev	(C)        | Alex Pereira	(C)    | Tom Aspinall	(C)      |
+|  1 | Jack Della Maddalena | Dricus Du Plessis          | Magomed Ankalaev    | Ciryl Gane            |
+|  2 | Ian Machado Garry    | Nassourdine Imavov         | Jiří Procházka      | Alexander Volkov      |
+|  3 | Michael Morales      | Sean Strickland            | Carlos Ulberg       | Sergei Pavlovich      |
+|  4 | Belal Muhammad       | Brendan Allen	▲ 2          | Khalil Rountree Jr. | Waldo Cortes Acosta   |
+|  5 | Carlos Prates        | Caio Borralho              | Jan Błachowicz      | Curtis Blaydes	▼ 1    |
+|  6 | Sean Brady           | Anthony Hernandez	▲ 1      | Azamat Murzakanov   | Serghei Spivac        |
+|  7 | Kamaru Usman         | Joe Pyfer	▲ 8              | Jamahal Hill        | Rizvan Kuniev         |
+|  8 | Leon Edwards         | Reinier de Ridder          | Bogdan Guskov       | Derrick Lewis         |
+|  9 | Joaquin Buckley      | Israel Adesanya	▼ 5        | Volkan Oezdemir     | Ante Delija	▲ 1       |
+| 10 | Gabriel Bonfim       | Robert Whittaker	▼ 1       | Dominick Reyes      | Tyrell Fortune	NR     |
+| 11 | Gilbert Burns        | Jared Cannonier	▼ 1        | Aleksandar Rakić    | Marcin Tybura	▼ 3     |
+| 12 | Michael Venom Page   | Gregory Rodrigues	▼ 1      | Johnny Walker       | Tallison Teixeira	▼ 1 |
+| 13 | Uroš Medić           | Christian Leroy Duncan	▼ 1 | Nikita Krylov       | Shamil Gaziev         |
+| 14 | Daniel Rodriguez	▲ 1 | Paulo Costa	▼ 1            | Dustin Jacoby       | Mick Parkin	▼ 2       |
+| 15 | Colby Covington	▼ 1  | Roman Dolidze              | Zhang Mingyang      | Valter Walker	▼ 1     |
 
 ### Women's Divisions
 
@@ -47,16 +47,16 @@
 |  0 | Mackenzie Dern	(C)    | Valentina Shevchenko	(C) | Kayla Harrison	(C)     |
 |  1 | Zhang Weili           | Natalia Silva            | Julianna Peña          |
 |  2 | Tatiana Suarez        | Manon Fiorot             | Raquel Pennington      |
-|  3 | Virna Jandiroba       | Erin Blanchfield         | Norma Dumont           |
-|  4 | Yan Xiaonan           | Alexa Grasso             | Ketlen Vieira          |
+|  3 | Virna Jandiroba       | Alexa Grasso             | Norma Dumont           |
+|  4 | Yan Xiaonan           | Erin Blanchfield	▼ 1     | Ketlen Vieira          |
 |  5 | Gillian Robertson     | Maycee Barber            | Yana Santos            |
 |  6 | Loopy Godinez         | Rose Namajunas           | Irene Aldana           |
 |  7 | Tabatha Ricci         | Jasmine Jasudavicius     | Ailin Perez            |
 |  8 | Amanda Lemos          | Tracy Cortez             | Karol Rosa             |
 |  9 | Jéssica Andrade       | Miranda Maverick         | Macy Chiasson          |
-| 10 | Amanda Ribas          | Karine Silva             | Jacqueline Cavalcanti  |
-| 11 | Fatima Kline          | Wang Cong                | Joselyne Edwards       |
-| 12 | Denise Gomes          | Casey O'Neill            | Mayra Bueno Silva      |
+| 10 | Amanda Ribas          | Karine Silva	▲ 1         | Jacqueline Cavalcanti  |
+| 11 | Fatima Kline          | Casey O'Neill	▲ 1        | Joselyne Edwards       |
+| 12 | Denise Gomes          | Wang Cong	▼ 1            | Mayra Bueno Silva      |
 | 13 | Alexia Thainara       | Eduarda Moura            | Nora Cornolle          |
-| 14 | Angela Hill           | Gabriella Fernandes      | Luana Santos           |
-| 15 | Mizuki                | JJ Aldrich               | Miesha Tate            |
+| 14 | Angela Hill           | JJ Aldrich	▲ 1           | Luana Santos           |
+| 15 | Mizuki                | Gabriella Fernandes	▼ 1  | Miesha Tate            |
