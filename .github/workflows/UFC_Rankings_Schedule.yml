@@ -1,8 +1,9 @@
-name: Run Python Script
+name: Run Python Script and Sync to GCS
 
 on:
   schedule:
     - cron: '0 0 * * 3'  
+  workflow_dispatch: 
 
 jobs:
   run_script:
@@ -19,18 +20,35 @@ jobs:
         with:
             python-version: '3.12'  
             cache: 'pip'
+
       - name: Install Python dependencies
         uses: py-actions/py-dependency-install@v4
-      - name: Run Script
-        run: python UFC_Rankings_Scrape.py
-      - name: Run UFCStatsScrape
-        run: python UFCStatsScrape.py
-      - name: Run Script
-        run: python MMA_Decision_Scrape.py
+
+      - name: Run Scrapers
+        run: |
+          python UFC_Rankings_Scrape.py
+          python UFCStatsScrape.py
+          python MMA_Decision_Scrape.py
+
       - name: Commit and push changes
-        run:  |
+        run: |
           git config --global user.email 'bpaton50000@gmail.com'
           git config --global user.name 'brad-paton'
           git add .
           git commit -m "Updated $(date +%Y-%m-%d)" || true
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/brad-paton/UFC_Rankings.git HEAD:main
+
+      # --- GOOGLE CLOUD STORAGE SYNC ---
+
+      - name: Authenticate to Google Cloud
+        uses: 'google-github-actions/auth@v2'
+        with:
+          credentials_json: '${{ secrets.GCP_SA_KEY }}'
+
+      - name: Upload CSVs to GCS
+        uses: 'google-github-actions/upload-cloud-storage@v2'
+        with:
+          path: '.' 
+          glob: '*.csv' 
+          destination: 'mma-data-bp' 
+          parent: false
