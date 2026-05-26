@@ -38,17 +38,21 @@ jobs:
           git commit -m "Updated $(date +%Y-%m-%d)" || true
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/brad-paton/UFC_Rankings.git HEAD:main
 
-      # --- GOOGLE CLOUD STORAGE SYNC ---
 
       - name: Authenticate to Google Cloud
         uses: 'google-github-actions/auth@v2'
         with:
           credentials_json: '${{ secrets.GCP_SA_KEY }}'
 
-      - name: Upload CSVs to GCS
-        uses: 'google-github-actions/upload-cloud-storage@v2'
+      - name: Authenticate to Google Cloud
+        uses: 'google-cloud-actions/auth@v2'
         with:
-          path: '.' 
-          glob: '*.csv' 
-          destination: 'mma-data-bp' 
-          parent: false
+          credentials_json: '${{ secrets.GCP_SA_KEY }}'
+
+      - name: Upload CSVs to GCS
+        uses: 'google-cloud-actions/upload-cloud-storage@v2'
+        with:
+          path: 'datasets/'  
+          glob: '*.csv'  
+          destination: 'mma-data-bp'
+          parent: false    
