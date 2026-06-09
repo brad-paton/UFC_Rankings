@@ -47,8 +47,12 @@ def scrape_event_data(url):
     # Create DataFrame with an extra column for the href
     df_event = pd.DataFrame(all_event_data, columns=['Date', 'Event', 'NumFights', 'url'])
 
-    # Change date column to date format
-    df_event['Date'] = pd.to_datetime(df_event['Date']).dt.date
+    # Normalize date strings and parse them with mixed month format inference
+    parsed_dates = pd.to_datetime(df_event['Date'].astype(str).str.strip(), format='mixed', errors='coerce')
+    if parsed_dates.isna().any():
+        bad_dates = df_event.loc[parsed_dates.isna(), 'Date'].unique()
+        raise ValueError(f"Unable to parse event date values: {bad_dates}")
+    df_event['Date'] = parsed_dates.dt.date
 
     # Sort descending by date
     df_event = df_event.sort_values(by='Date', ascending=False)

@@ -21,7 +21,8 @@ for year in range(1994, currentyear + 1):
 
 df_event = pd.read_csv(events_path)
 urls_events = df_event['url'].tolist()
-    
+
+df_event_all = df_event.copy()
 for url in urls_yearly_events:
 
     if url in urls_events:
@@ -29,10 +30,14 @@ for url in urls_yearly_events:
 
     df_event_new = LIB.scrape_event_data(url)
 
-    df_event_all = pd.concat([df_event, df_event_new], ignore_index=True)
+    df_event_all = pd.concat([df_event_all, df_event_new], ignore_index=True)
 
 # Sort descending by date
-df_event_all['Date'] = pd.to_datetime(df_event_all['Date']).dt.date
+parsed_dates = pd.to_datetime(df_event_all['Date'].astype(str).str.strip(), format='mixed', errors='coerce')
+if parsed_dates.isna().any():
+    bad_dates = df_event_all.loc[parsed_dates.isna(), 'Date'].unique()
+    raise ValueError(f"Unable to parse Date values in df_event_all: {bad_dates}")
+df_event_all['Date'] = parsed_dates.dt.date
 df_event_all = df_event_all.sort_values(by='Date', ascending=False)
 
 # Save to MMA_Events csv

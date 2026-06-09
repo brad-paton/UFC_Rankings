@@ -1,62 +1,62 @@
-## UFC Rankings as of 2026-04-29
+## UFC Rankings as of 2026-06-09
 
 ### Men's Light Divisions
 
-|    | Flyweight         | Bantamweight        | Featherweight             | Lightweight        |
-|---:|:------------------|:--------------------|:--------------------------|:-------------------|
-|  0 | Joshua Van	(C)    | Petr Yan	(C)        | Alexander Volkanovski	(C) | Ilia Topuria	(C)   |
-|  1 | Alexandre Pantoja | Merab Dvalishvili   | Movsar Evloev             | Justin Gaethje	(I) |
-|  2 | Manel Kape        | Umar Nurmagomedov   | Diego Lopes               | Arman Tsarukyan    |
-|  3 | Tatsuro Taira     | Sean O'Malley       | Lerone Murphy             | Charles Oliveira   |
-|  4 | Brandon Royval    | Cory Sandhagen      | Aljamain Sterling	▲ 1     | Max Holloway       |
-|  5 | Kyoji Horiguchi   | Song Yadong         | Yair Rodriguez	▼ 1        | Benoît Saint Denis |
-|  6 | Lone’er Kavanagh  | Aiemann Zahabi      | Jean Silva                | Paddy Pimblett     |
-|  7 | Amir Albazi       | Deiveson Figueiredo | Arnold Allen	▲ 1          | Mateusz Gamrot     |
-|  8 | Asu Almabayev     | Mario Bautista      | Youssef Zalal	▼ 1         | Dan Hooker         |
-|  9 | Brandon Moreno    | David Martinez      | Steve Garcia              | Renato Moicano     |
-| 10 | Alex Perez        | Marlon Vera         | Kevin Vallejos            | Mauricio Ruffy     |
-| 11 | Tim Elliott       | Payton Talbott      | Brian Ortega              | Rafael Fiziev      |
-| 12 | Steve Erceg       | Vinicius Oliveira   | Melquizael Costa          | Beneil Dariush     |
-| 13 | Charles Johnson   | Raul Rosas Jr.      | Aaron Pico                | Michael Chandler   |
-| 14 | Tagir Ulanbekov   | Raoni Barcelos	NR   | David Onama               | Manuel Torres      |
-| 15 | Bruno Silva       | Farid Basharat      | Patricio Pitbull          | Farès Ziam         |### Men's Heavy Divisions
+|    | Flyweight         | Bantamweight      | Featherweight     | Lightweight        |
+|---:|:------------------|:------------------|:------------------|:-------------------|
+|  0 | Joshua Van	(C)                   | Petr Yan	(C)                   | Alexander Volkanovski	(C)                   | Ilia Topuria	(C)                    |
+|  1 | Alexandre Pantoja | Merab Dvalishvili | Movsar Evloev     | Justin Gaethje	(I)                    |
+|  2 | Manel Kape        | Umar Nurmagomedov | Diego Lopes       | Arman Tsarukyan    |
+|  3 | Tatsuro Taira     | Sean O'Malley	▼ 1                   | Lerone Murphy     | Charles Oliveira   |
+|  4 | Brandon Royval    | Cory Sandhagen    | Aljamain Sterling | Max Holloway       |
+|  5 | Kyoji Horiguchi   | Song Yadong       | Yair Rodriguez    | Benoît Saint Denis |
+|  6 | Lone’er Kavanagh  | Aiemann Zahabi    | Jean Silva        | Paddy Pimblett     |
+|  7 | Amir Albazi       | Mario Bautista	▲ 1                   | Arnold Allen      | Mateusz Gamrot     |
+|  8 | Asu Almabayev     | David Martinez	▲ 1                   | Youssef Zalal     | Dan Hooker         |
+|  9 | Brandon Moreno    | Deiveson Figueiredo	▼ 2                   | Steve Garcia      | Mauricio Ruffy     |
+| 10 | Steve Erceg       | Marlon Vera       | Kevin Vallejos    | Renato Moicano     |
+| 11 | Tim Elliott	▲ 1                   | Payton Talbott    | Brian Ortega      | Rafael Fiziev      |
+| 12 | Alex Perez	▼ 1                   | Vinicius Oliveira | Aaron Pico	▲ 1                   | Quillan Salkilld   |
+| 13 | Tagir Ulanbekov   | Raul Rosas Jr.    | Melquizael Costa	▼ 1                   | Michael Chandler   |
+| 14 | Charles Johnson   | Raoni Barcelos    | David Onama       | Farès Ziam         |
+| 15 | Bruno Silva       | Farid Basharat    | Josh Emmett       | Beneil Dariush     |### Men's Heavy Divisions
 
 |    | Welterweight         | Middleweight           | Light Heavyweight   | Heavyweight         |
 |---:|:---------------------|:-----------------------|:--------------------|:--------------------|
-|  0 | Islam Makhachev	(C)  | Khamzat Chimaev	(C)    | Carlos Ulberg	(C)   | Tom Aspinall	(C)    |
-|  1 | Jack Della Maddalena | Dricus Du Plessis      | Magomed Ankalaev    | Ciryl Gane          |
-|  2 | Ian Machado Garry    | Nassourdine Imavov     | Alex Pereira        | Alexander Volkov    |
-|  3 | Michael Morales      | Sean Strickland        | Jiří Procházka      | Sergei Pavlovich    |
-|  4 | Belal Muhammad       | Brendan Allen          | Jan Błachowicz      | Waldo Cortes Acosta |
-|  5 | Carlos Prates        | Caio Borralho          | Khalil Rountree Jr. | Josh Hokit          |
+|  0 | Islam Makhachev	(C)                      | Sean Strickland	(C)                        | Carlos Ulberg	(C)                     | Tom Aspinall	(C)                     |
+|  1 | Ian Machado Garry    | Khamzat Chimaev        | Magomed Ankalaev    | Ciryl Gane          |
+|  2 | Carlos Prates        | Dricus Du Plessis      | Alex Pereira        | Alexander Volkov    |
+|  3 | Michael Morales      | Nassourdine Imavov     | Jiří Procházka      | Sergei Pavlovich    |
+|  4 | Jack Della Maddalena | Caio Borralho          | Jan Błachowicz      | Waldo Cortes Acosta |
+|  5 | Belal Muhammad       | Brendan Allen          | Khalil Rountree Jr. | Josh Hokit          |
 |  6 | Sean Brady           | Joe Pyfer              | Jamahal Hill        | Serghei Spivac      |
-|  7 | Kamaru Usman         | Anthony Hernandez      | Paulo Costa         | Curtis Blaydes	▼ 1  |
-|  8 | Leon Edwards         | Reinier de Ridder      | Azamat Murzakanov   | Rizvan Kuniev       |
-|  9 | Joaquin Buckley      | Israel Adesanya        | Dominick Reyes      | Derrick Lewis       |
-| 10 | Gabriel Bonfim       | Robert Whittaker       | Bogdan Guskov       | Ante Delija         |
-| 11 | Mike Malott          | Jared Cannonier        | Volkan Oezdemir     | Tyrell Fortune      |
-| 12 | Uroš Medić	▲ 1       | Gregory Rodrigues      | Aleksandar Rakić    | Marcin Tybura       |
-| 13 | Michael Venom Page   | Christian Leroy Duncan | Nikita Krylov       | Tallison Teixeira   |
-| 14 | Daniel Rodriguez     | Paulo Costa	▲ 1        | Johnny Walker       | Shamil Gaziev	▲ 1   |
-| 15 | Yaroslav Amosov	▲ 1  | Roman Dolidze	▼ 1      | Alonzo Menifield    | Mick Parkin	▼ 1     |
+|  7 | Leon Edwards         | Anthony Hernandez      | Paulo Costa         | Curtis Blaydes      |
+|  8 | Kamaru Usman         | Reinier de Ridder      | Azamat Murzakanov   | Rizvan Kuniev       |
+|  9 | Joaquin Buckley      | Israel Adesanya        | Volkan Oezdemir     | Derrick Lewis       |
+| 10 | Yaroslav Amosov      | Robert Whittaker       | Bogdan Guskov       | Tyrell Fortune      |
+| 11 | Gabriel Bonfim       | Jared Cannonier        | Dominick Reyes      | Ante Delija         |
+| 12 | Mike Malott          | Gregory Rodrigues      | Nikita Krylov	▲ 1                     | Marcin Tybura       |
+| 13 | Uroš Medić           | Christian Leroy Duncan | Johnny Walker	▲ 1                     | Valter Walker       |
+| 14 | Michael Venom Page	▼ 1                      | Roman Dolidze          | Aleksandar Rakić	▼ 2                     | Brando Peričić      |
+| 15 | Daniel Rodriguez     | Ikram Aliskerov        | Alonzo Menifield    | Mick Parkin	NR                     |
 
 ### Women's Divisions
 
-|    | Women's Strawweight   | Women's Flyweight        | Women's Bantamweight      |
-|---:|:----------------------|:-------------------------|:--------------------------|
-|  0 | Mackenzie Dern	(C)    | Valentina Shevchenko	(C) | Kayla Harrison	(C)        |
-|  1 | Zhang Weili           | Natalia Silva            | Julianna Peña             |
-|  2 | Tatiana Suarez        | Manon Fiorot             | Raquel Pennington         |
-|  3 | Virna Jandiroba       | Alexa Grasso             | Joselyne Edwards	▲ 8      |
-|  4 | Yan Xiaonan           | Erin Blanchfield         | Norma Dumont	▼ 1          |
-|  5 | Gillian Robertson     | Maycee Barber            | Ketlen Vieira	▼ 1         |
-|  6 | Loopy Godinez         | Rose Namajunas           | Ailin Perez               |
-|  7 | Amanda Lemos          | Jasmine Jasudavicius     | Yana Santos	▼ 2           |
-|  8 | Tabatha Ricci	▼ 1     | Tracy Cortez             | Irene Aldana	▼ 1          |
-|  9 | Jéssica Andrade       | Miranda Maverick         | Macy Chiasson             |
-| 10 | Amanda Ribas          | Karine Silva             | Karol Rosa	▼ 2            |
-| 11 | Fatima Kline          | Casey O'Neill            | Jacqueline Cavalcanti	▼ 1 |
-| 12 | Denise Gomes          | Wang Cong                | Nora Cornolle	▲ 1         |
-| 13 | Alexia Thainara       | Eduarda Moura            | Luana Santos	▲ 1          |
-| 14 | Angela Hill           | JJ Aldrich               | Michelle Montague	NR      |
-| 15 | Mizuki                | Gabriella Fernandes      | Bia Mesquita              |
+|    | Women's Strawweight   | Women's Flyweight    | Women's Bantamweight   |
+|---:|:----------------------|:---------------------|:-----------------------|
+|  0 | Mackenzie Dern	(C)                       | Valentina Shevchenko	(C)                      | Kayla Harrison	(C)                        |
+|  1 | Zhang Weili           | Natalia Silva        | Julianna Peña          |
+|  2 | Tatiana Suarez        | Manon Fiorot         | Raquel Pennington      |
+|  3 | Virna Jandiroba       | Alexa Grasso         | Joselyne Edwards       |
+|  4 | Yan Xiaonan           | Erin Blanchfield     | Norma Dumont           |
+|  5 | Gillian Robertson     | Rose Namajunas       | Ailin Perez            |
+|  6 | Loopy Godinez         | Jasmine Jasudavicius | Irene Aldana           |
+|  7 | Amanda Lemos          | Maycee Barber        | Yana Santos            |
+|  8 | Tabatha Ricci         | Tracy Cortez         | Macy Chiasson          |
+|  9 | Jéssica Andrade       | Miranda Maverick     | Karol Rosa	▲ 1                        |
+| 10 | Amanda Ribas          | Karine Silva         | Jacqueline Cavalcanti	▼ 1                        |
+| 11 | Fatima Kline          | Casey O'Neill        | Luana Santos	▲ 2                        |
+| 12 | Angela Hill	▲ 2                       | Wang Cong            | Nora Cornolle          |
+| 13 | Denise Gomes	▼ 1                       | Eduarda Moura        | Michelle Montague	▼ 2                        |
+| 14 | Alexia Thainara	▼ 1                       | JJ Aldrich           | Bia Mesquita           |
+| 15 | Mizuki                | Gabriella Fernandes  | Miesha Tate            |
