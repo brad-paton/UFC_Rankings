@@ -1,4 +1,4 @@
-## UFC Rankings as of 2026-06-10
+## UFC Rankings as of 2026-06-11
 
 ### Men's Light Divisions
 
@@ -50,8 +50,8 @@
 |  3 | Virna Jandiroba       | Alexa Grasso             | Joselyne Edwards       |
 |  4 | Yan Xiaonan           | Erin Blanchfield         | Norma Dumont           |
 |  5 | Gillian Robertson     | Rose Namajunas           | Ailin Perez            |
-|  6 | Amanda Lemos          | Maycee Barber            | Irene Aldana           |
-|  7 | Loopy Godinez         | Jasmine Jasudavicius     | Yana Santos            |
+|  6 | Loopy Godinez         | Jasmine Jasudavicius     | Irene Aldana           |
+|  7 | Amanda Lemos          | Maycee Barber            | Yana Santos            |
 |  8 | Tabatha Ricci         | Tracy Cortez             | Karol Rosa	▲ 1         |
 |  9 | Jéssica Andrade       | Miranda Maverick         | Macy Chiasson	▼ 1      |
 | 10 | Amanda Ribas          | Karine Silva             | Jacqueline Cavalcanti  |
