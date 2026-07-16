@@ -1,4 +1,386 @@
 Date,Division,Fighter,Ranking,Notes
+2026-07-16,Men's Pound-for-Pound,Islam Makhachev,1,
+2026-07-16,Men's Pound-for-Pound,Alexander Volkanovski,2,
+2026-07-16,Men's Pound-for-Pound,Petr Yan,3,
+2026-07-16,Men's Pound-for-Pound,Justin Gaethje,4,
+2026-07-16,Men's Pound-for-Pound,Ilia Topuria,5,
+2026-07-16,Men's Pound-for-Pound,Tom Aspinall,6,
+2026-07-16,Men's Pound-for-Pound,Sean Strickland,7,
+2026-07-16,Men's Pound-for-Pound,Merab Dvalishvili,8,Rank increased by 1
+2026-07-16,Men's Pound-for-Pound,Alex Pereira,9,Rank decreased by 1
+2026-07-16,Men's Pound-for-Pound,Ciryl Gane,10,
+2026-07-16,Men's Pound-for-Pound,Joshua Van,11,
+2026-07-16,Men's Pound-for-Pound,Khamzat Chimaev,12,
+2026-07-16,Men's Pound-for-Pound,Alexandre Pantoja,13,
+2026-07-16,Men's Pound-for-Pound,Arman Tsarukyan,14,
+2026-07-16,Men's Pound-for-Pound,Charles Oliveira,15,
+2026-07-16,Flyweight,Joshua Van,0,Champion
+2026-07-16,Flyweight,Joshua Van,0,Champion
+2026-07-16,Flyweight,Alexandre Pantoja,1,
+2026-07-16,Flyweight,Manel Kape,2,
+2026-07-16,Flyweight,Brandon Royval,3,Rank increased by 1
+2026-07-16,Flyweight,Tatsuro Taira,4,Rank decreased by 1
+2026-07-16,Flyweight,Kyoji Horiguchi,5,
+2026-07-16,Flyweight,Lone’er Kavanagh,6,
+2026-07-16,Flyweight,Asu Almabayev,7,
+2026-07-16,Flyweight,Amir Albazi,8,
+2026-07-16,Flyweight,Brandon Moreno,9,
+2026-07-16,Flyweight,Steve Erceg,10,
+2026-07-16,Flyweight,Alex Perez,11,
+2026-07-16,Flyweight,Tim Elliott,12,
+2026-07-16,Flyweight,Tagir Ulanbekov,13,
+2026-07-16,Flyweight,Charles Johnson,14,
+2026-07-16,Flyweight,Edgar Chairez,15,
+2026-07-16,Flyweight,Alexandre Pantoja,999,Not Ranked
+2026-07-16,Flyweight,Manel Kape,999,Not Ranked
+2026-07-16,Flyweight,Brandon Royval,999,Not Ranked
+2026-07-16,Flyweight,Tatsuro Taira,999,Not Ranked
+2026-07-16,Flyweight,Asu Almabayev,999,Not Ranked
+2026-07-16,Flyweight,Lone’er Kavanagh,999,Not Ranked
+2026-07-16,Flyweight,Kyoji Horiguchi,999,Not Ranked
+2026-07-16,Flyweight,Amir Albazi,999,Not Ranked
+2026-07-16,Flyweight,Brandon Moreno,999,Not Ranked
+2026-07-16,Flyweight,Kevin Borjas,999,Not Ranked
+2026-07-16,Flyweight,Mitch Raposo,999,Not Ranked
+2026-07-16,Flyweight,Sumudaerji,999,Not Ranked
+2026-07-16,Flyweight,Steve Erceg,999,Not Ranked
+2026-07-16,Flyweight,Alex Perez,999,Not Ranked
+2026-07-16,Flyweight,Alessandro Costa,999,Not Ranked
+2026-07-16,Bantamweight,Petr Yan,0,Champion
+2026-07-16,Bantamweight,Petr Yan,0,Champion
+2026-07-16,Bantamweight,Merab Dvalishvili,1,
+2026-07-16,Bantamweight,Sean O'Malley,2,
+2026-07-16,Bantamweight,Umar Nurmagomedov,3,
+2026-07-16,Bantamweight,Mario Bautista,4,Rank increased by 3
+2026-07-16,Bantamweight,Cory Sandhagen,5,Rank decreased by 1
+2026-07-16,Bantamweight,Song Yadong,6,Rank decreased by 1
+2026-07-16,Bantamweight,Aiemann Zahabi,7,Rank decreased by 1
+2026-07-16,Bantamweight,David Martinez,8,
+2026-07-16,Bantamweight,Deiveson Figueiredo,9,
+2026-07-16,Bantamweight,Marlon Vera,10,
+2026-07-16,Bantamweight,Payton Talbott,11,
+2026-07-16,Bantamweight,Raul Rosas Jr.,12,
+2026-07-16,Bantamweight,Raoni Barcelos,13,
+2026-07-16,Bantamweight,Farid Basharat,14,Rank increased by 1
+2026-07-16,Bantamweight,Marcus McGhee,15,Rank decreased by 1
+2026-07-16,Bantamweight,Merab Dvalishvili,999,Not Ranked
+2026-07-16,Bantamweight,Umar Nurmagomedov,999,Not Ranked
+2026-07-16,Bantamweight,Sean O'Malley,999,Not Ranked
+2026-07-16,Bantamweight,Mario Bautista,999,Not Ranked
+2026-07-16,Bantamweight,Cory Sandhagen,999,Not Ranked
+2026-07-16,Bantamweight,Song Yadong,999,Not Ranked
+2026-07-16,Bantamweight,David Martinez,999,Not Ranked
+2026-07-16,Bantamweight,Raoni Barcelos,999,Not Ranked
+2026-07-16,Bantamweight,Farid Basharat,999,Not Ranked
+2026-07-16,Bantamweight,Marcus McGhee,999,Not Ranked
+2026-07-16,Bantamweight,Deiveson Figueiredo,999,Not Ranked
+2026-07-16,Bantamweight,Aiemann Zahabi,999,Not Ranked
+2026-07-16,Bantamweight,Charles Jourdain,999,Not Ranked
+2026-07-16,Bantamweight,Bryce Mitchell,999,Not Ranked
+2026-07-16,Bantamweight,Montel Jackson,999,Not Ranked
+2026-07-16,Featherweight,Alexander Volkanovski,0,Champion
+2026-07-16,Featherweight,Alexander Volkanovski,0,Champion
+2026-07-16,Featherweight,Movsar Evloev,1,
+2026-07-16,Featherweight,Diego Lopes,2,
+2026-07-16,Featherweight,Lerone Murphy,3,
+2026-07-16,Featherweight,Aljamain Sterling,4,
+2026-07-16,Featherweight,Yair Rodriguez,5,
+2026-07-16,Featherweight,Jean Silva,6,
+2026-07-16,Featherweight,Arnold Allen,7,
+2026-07-16,Featherweight,Youssef Zalal,8,
+2026-07-16,Featherweight,Kevin Vallejos,9,
+2026-07-16,Featherweight,Steve Garcia,10,
+2026-07-16,Featherweight,Brian Ortega,11,
+2026-07-16,Featherweight,Aaron Pico,12,
+2026-07-16,Featherweight,Melquizael Costa,13,
+2026-07-16,Featherweight,David Onama,14,
+2026-07-16,Featherweight,Patricio Pitbull,15,
+2026-07-16,Featherweight,Movsar Evloev,999,Not Ranked
+2026-07-16,Featherweight,Diego Lopes,999,Not Ranked
+2026-07-16,Featherweight,Lerone Murphy,999,Not Ranked
+2026-07-16,Featherweight,Aljamain Sterling,999,Not Ranked
+2026-07-16,Featherweight,Arnold Allen,999,Not Ranked
+2026-07-16,Featherweight,Jean Silva,999,Not Ranked
+2026-07-16,Featherweight,Pat Sabatini,999,Not Ranked
+2026-07-16,Featherweight,Youssef Zalal,999,Not Ranked
+2026-07-16,Featherweight,Nathaniel Wood,999,Not Ranked
+2026-07-16,Featherweight,Kevin Vallejos,999,Not Ranked
+2026-07-16,Featherweight,Melquizael Costa,999,Not Ranked
+2026-07-16,Featherweight,Steve Garcia,999,Not Ranked
+2026-07-16,Featherweight,Aaron Pico,999,Not Ranked
+2026-07-16,Featherweight,Joanderson Brito,999,Not Ranked
+2026-07-16,Featherweight,Jose Miguel Delgado,999,Not Ranked
+2026-07-16,Lightweight,Justin Gaethje,0,Champion
+2026-07-16,Lightweight,Justin Gaethje,0,Champion
+2026-07-16,Lightweight,Ilia Topuria,1,
+2026-07-16,Lightweight,Arman Tsarukyan,2,
+2026-07-16,Lightweight,Charles Oliveira,3,
+2026-07-16,Lightweight,Max Holloway,4,
+2026-07-16,Lightweight,Paddy Pimblett,5,Rank increased by 1
+2026-07-16,Lightweight,Benoît Saint Denis,6,Rank decreased by 1
+2026-07-16,Lightweight,Mauricio Ruffy,7,
+2026-07-16,Lightweight,Mateusz Gamrot,8,
+2026-07-16,Lightweight,Dan Hooker,9,
+2026-07-16,Lightweight,Renato Moicano,10,
+2026-07-16,Lightweight,Rafael Fiziev,11,Rank decreased by 1
+2026-07-16,Lightweight,Quillan Salkilld,12,
+2026-07-16,Lightweight,Tom Nolan,13,
+2026-07-16,Lightweight,Beneil Dariush,14,
+2026-07-16,Lightweight,Manuel Torres,15,
+2026-07-16,Lightweight,Ilia Topuria,999,Not Ranked
+2026-07-16,Lightweight,Arman Tsarukyan,999,Not Ranked
+2026-07-16,Lightweight,Charles Oliveira,999,Not Ranked
+2026-07-16,Lightweight,Max Holloway,999,Not Ranked
+2026-07-16,Lightweight,Paddy Pimblett,999,Not Ranked
+2026-07-16,Lightweight,Mateusz Gamrot,999,Not Ranked
+2026-07-16,Lightweight,Renato Moicano,999,Not Ranked
+2026-07-16,Lightweight,Benoît Saint Denis,999,Not Ranked
+2026-07-16,Lightweight,Quillan Salkilld,999,Not Ranked
+2026-07-16,Lightweight,Mauricio Ruffy,999,Not Ranked
+2026-07-16,Lightweight,Tom Nolan,999,Not Ranked
+2026-07-16,Lightweight,Dan Hooker,999,Not Ranked
+2026-07-16,Lightweight,Rafael Fiziev,999,Not Ranked
+2026-07-16,Lightweight,Grant Dawson,999,Not Ranked
+2026-07-16,Lightweight,Rafa Garcia,999,Not Ranked
+2026-07-16,Welterweight,Islam Makhachev,0,Champion
+2026-07-16,Welterweight,Islam Makhachev,0,Champion
+2026-07-16,Welterweight,Ian Machado Garry,1,
+2026-07-16,Welterweight,Carlos Prates,2,
+2026-07-16,Welterweight,Michael Morales,3,
+2026-07-16,Welterweight,Jack Della Maddalena,4,
+2026-07-16,Welterweight,Gabriel Bonfim,5,
+2026-07-16,Welterweight,Sean Brady,6,
+2026-07-16,Welterweight,Belal Muhammad,7,
+2026-07-16,Welterweight,Leon Edwards,8,
+2026-07-16,Welterweight,Kamaru Usman,9,
+2026-07-16,Welterweight,Joaquin Buckley,10,
+2026-07-16,Welterweight,Yaroslav Amosov,11,
+2026-07-16,Welterweight,Mike Malott,12,
+2026-07-16,Welterweight,Michael Venom Page,13,
+2026-07-16,Welterweight,Uroš Medić,14,
+2026-07-16,Welterweight,Daniel Rodriguez,15,
+2026-07-16,Welterweight,Carlos Prates,999,Not Ranked
+2026-07-16,Welterweight,Ian Machado Garry,999,Not Ranked
+2026-07-16,Welterweight,Michael Morales,999,Not Ranked
+2026-07-16,Welterweight,Jack Della Maddalena,999,Not Ranked
+2026-07-16,Welterweight,Sean Brady,999,Not Ranked
+2026-07-16,Welterweight,Gabriel Bonfim,999,Not Ranked
+2026-07-16,Welterweight,Belal Muhammad,999,Not Ranked
+2026-07-16,Welterweight,Leon Edwards,999,Not Ranked
+2026-07-16,Welterweight,Joaquin Buckley,999,Not Ranked
+2026-07-16,Welterweight,Kamaru Usman,999,Not Ranked
+2026-07-16,Welterweight,Mike Malott,999,Not Ranked
+2026-07-16,Welterweight,Michael Venom Page,999,Not Ranked
+2026-07-16,Welterweight,Daniel Rodriguez,999,Not Ranked
+2026-07-16,Welterweight,Uroš Medić,999,Not Ranked
+2026-07-16,Welterweight,Yaroslav Amosov,999,Not Ranked
+2026-07-16,Middleweight,Sean Strickland,0,Champion
+2026-07-16,Middleweight,Sean Strickland,0,Champion
+2026-07-16,Middleweight,Khamzat Chimaev,1,
+2026-07-16,Middleweight,Dricus Du Plessis,2,
+2026-07-16,Middleweight,Nassourdine Imavov,3,
+2026-07-16,Middleweight,Brendan Allen,4,
+2026-07-16,Middleweight,Caio Borralho,5,
+2026-07-16,Middleweight,Anthony Hernandez,6,
+2026-07-16,Middleweight,Joe Pyfer,7,
+2026-07-16,Middleweight,Reinier de Ridder,8,
+2026-07-16,Middleweight,Israel Adesanya,9,
+2026-07-16,Middleweight,Jared Cannonier,10,Rank increased by 1
+2026-07-16,Middleweight,Gregory Rodrigues,11,Rank increased by 1
+2026-07-16,Middleweight,Christian Leroy Duncan,12,Rank increased by 1
+2026-07-16,Middleweight,Ikram Aliskerov,13,Rank increased by 2
+2026-07-16,Middleweight,Bo Nickal,14,Rank increased by 1
+2026-07-16,Middleweight,Roman Dolidze,15,Rank decreased by 1
+2026-07-16,Middleweight,Khamzat Chimaev,999,Not Ranked
+2026-07-16,Middleweight,Dricus Du Plessis,999,Not Ranked
+2026-07-16,Middleweight,Nassourdine Imavov,999,Not Ranked
+2026-07-16,Middleweight,Joe Pyfer,999,Not Ranked
+2026-07-16,Middleweight,Brendan Allen,999,Not Ranked
+2026-07-16,Middleweight,Caio Borralho,999,Not Ranked
+2026-07-16,Middleweight,Anthony Hernandez,999,Not Ranked
+2026-07-16,Middleweight,Israel Adesanya,999,Not Ranked
+2026-07-16,Middleweight,Gregory Rodrigues,999,Not Ranked
+2026-07-16,Middleweight,Ikram Aliskerov,999,Not Ranked
+2026-07-16,Middleweight,Jared Cannonier,999,Not Ranked
+2026-07-16,Middleweight,Christian Leroy Duncan,999,Not Ranked
+2026-07-16,Middleweight,Bo Nickal,999,Not Ranked
+2026-07-16,Middleweight,Abus Magomedov,999,Not Ranked
+2026-07-16,Middleweight,Nursulton Ruziboev,999,Not Ranked
+2026-07-16,Light Heavyweight,Carlos Ulberg,0,Champion
+2026-07-16,Light Heavyweight,Carlos Ulberg,0,Champion
+2026-07-16,Light Heavyweight,Magomed Ankalaev,1,
+2026-07-16,Light Heavyweight,Jiří Procházka,2,
+2026-07-16,Light Heavyweight,Alex Pereira,3,
+2026-07-16,Light Heavyweight,Jan Błachowicz,4,
+2026-07-16,Light Heavyweight,Khalil Rountree Jr.,5,
+2026-07-16,Light Heavyweight,Paulo Costa,6,Rank increased by 1
+2026-07-16,Light Heavyweight,Jamahal Hill,7,Rank decreased by 1
+2026-07-16,Light Heavyweight,Azamat Murzakanov,8,Rank decreased by 1
+2026-07-16,Light Heavyweight,Bogdan Guskov,9,Rank increased by 1
+2026-07-16,Light Heavyweight,Volkan Oezdemir,9,
+2026-07-16,Light Heavyweight,Dominick Reyes,11,
+2026-07-16,Light Heavyweight,Robert Whittaker,12,NR
+2026-07-16,Light Heavyweight,Johnny Walker,13,
+2026-07-16,Light Heavyweight,Aleksandar Rakić,14,
+2026-07-16,Light Heavyweight,Nikita Krylov,15,Rank decreased by 3
+2026-07-16,Light Heavyweight,Alex Pereira,999,Not Ranked
+2026-07-16,Light Heavyweight,Magomed Ankalaev,999,Not Ranked
+2026-07-16,Light Heavyweight,Jiří Procházka,999,Not Ranked
+2026-07-16,Light Heavyweight,Paulo Costa,999,Not Ranked
+2026-07-16,Light Heavyweight,Jamahal Hill,999,Not Ranked
+2026-07-16,Light Heavyweight,Khalil Rountree Jr.,999,Not Ranked
+2026-07-16,Light Heavyweight,Dominick Reyes,999,Not Ranked
+2026-07-16,Light Heavyweight,Volkan Oezdemir,999,Not Ranked
+2026-07-16,Light Heavyweight,Azamat Murzakanov,999,Not Ranked
+2026-07-16,Light Heavyweight,Bogdan Guskov,999,Not Ranked
+2026-07-16,Light Heavyweight,Dustin Jacoby,999,Not Ranked
+2026-07-16,Light Heavyweight,Navajo Stirling,999,Not Ranked
+2026-07-16,Light Heavyweight,Robert Whittaker,999,Not Ranked
+2026-07-16,Light Heavyweight,Alonzo Menifield,999,Not Ranked
+2026-07-16,Light Heavyweight,Johnny Walker,999,Not Ranked
+2026-07-16,Heavyweight,Tom Aspinall,0,Champion
+2026-07-16,Heavyweight,Tom Aspinall,0,Champion
+2026-07-16,Heavyweight,Ciryl Gane,1,
+2026-07-16,Heavyweight,Alexander Volkov,2,
+2026-07-16,Heavyweight,Sergei Pavlovich,3,
+2026-07-16,Heavyweight,Josh Hokit,4,
+2026-07-16,Heavyweight,Waldo Cortes Acosta,5,
+2026-07-16,Heavyweight,Serghei Spivac,6,
+2026-07-16,Heavyweight,Curtis Blaydes,7,
+2026-07-16,Heavyweight,Rizvan Kuniev,8,
+2026-07-16,Heavyweight,Tyrell Fortune,9,
+2026-07-16,Heavyweight,Ante Delija,9,Rank increased by 1
+2026-07-16,Heavyweight,Derrick Lewis,11,
+2026-07-16,Heavyweight,Marcin Tybura,12,
+2026-07-16,Heavyweight,Valter Walker,13,Rank increased by 1
+2026-07-16,Heavyweight,Brando Peričić,14,Rank decreased by 1
+2026-07-16,Heavyweight,Mick Parkin,15,
+2026-07-16,Heavyweight,Ciryl Gane,999,Not Ranked
+2026-07-16,Heavyweight,Alexander Volkov,999,Not Ranked
+2026-07-16,Heavyweight,Sergei Pavlovich,999,Not Ranked
+2026-07-16,Heavyweight,Alex Pereira,999,Not Ranked
+2026-07-16,Heavyweight,Josh Hokit,999,Not Ranked
+2026-07-16,Heavyweight,Waldo Cortes Acosta,999,Not Ranked
+2026-07-16,Heavyweight,Rizvan Kuniev,999,Not Ranked
+2026-07-16,Heavyweight,Serghei Spivac,999,Not Ranked
+2026-07-16,Heavyweight,Curtis Blaydes,999,Not Ranked
+2026-07-16,Heavyweight,Vitor Petrino,999,Not Ranked
+2026-07-16,Heavyweight,Valter Walker,999,Not Ranked
+2026-07-16,Heavyweight,Brando Peričić,999,Not Ranked
+2026-07-16,Heavyweight,Mario Pinto,999,Not Ranked
+2026-07-16,Heavyweight,Mick Parkin,999,Not Ranked
+2026-07-16,Heavyweight,Ryan Spann,999,Not Ranked
+2026-07-16,Women's Pound-for-Pound,Valentina Shevchenko,1,
+2026-07-16,Women's Pound-for-Pound,Kayla Harrison,2,
+2026-07-16,Women's Pound-for-Pound,Zhang Weili,3,
+2026-07-16,Women's Pound-for-Pound,Natalia Silva,4,
+2026-07-16,Women's Pound-for-Pound,Manon Fiorot,5,
+2026-07-16,Women's Pound-for-Pound,Mackenzie Dern,6,
+2026-07-16,Women's Pound-for-Pound,Alexa Grasso,7,
+2026-07-16,Women's Pound-for-Pound,Erin Blanchfield,8,
+2026-07-16,Women's Pound-for-Pound,Julianna Peña,9,
+2026-07-16,Women's Pound-for-Pound,Tatiana Suarez,10,
+2026-07-16,Women's Pound-for-Pound,Virna Jandiroba,11,
+2026-07-16,Women's Pound-for-Pound,Yan Xiaonan,12,
+2026-07-16,Women's Pound-for-Pound,Raquel Pennington,13,
+2026-07-16,Women's Pound-for-Pound,Rose Namajunas,14,
+2026-07-16,Women's Pound-for-Pound,Maycee Barber,15,
+2026-07-16,Women's Strawweight,Mackenzie Dern,0,Champion
+2026-07-16,Women's Strawweight,Mackenzie Dern,0,Champion
+2026-07-16,Women's Strawweight,Zhang Weili,1,
+2026-07-16,Women's Strawweight,Tatiana Suarez,2,
+2026-07-16,Women's Strawweight,Virna Jandiroba,3,
+2026-07-16,Women's Strawweight,Yan Xiaonan,4,
+2026-07-16,Women's Strawweight,Gillian Robertson,5,
+2026-07-16,Women's Strawweight,Loopy Godinez,6,
+2026-07-16,Women's Strawweight,Amanda Lemos,7,
+2026-07-16,Women's Strawweight,Tabatha Ricci,8,
+2026-07-16,Women's Strawweight,Jéssica Andrade,9,
+2026-07-16,Women's Strawweight,Amanda Ribas,10,
+2026-07-16,Women's Strawweight,Fatima Kline,11,
+2026-07-16,Women's Strawweight,Alexia Thainara,12,Rank increased by 2
+2026-07-16,Women's Strawweight,Denise Gomes,13,
+2026-07-16,Women's Strawweight,Angela Hill,14,Rank decreased by 2
+2026-07-16,Women's Strawweight,Mizuki,15,
+2026-07-16,Women's Strawweight,Zhang Weili,999,Not Ranked
+2026-07-16,Women's Strawweight,Virna Jandiroba,999,Not Ranked
+2026-07-16,Women's Strawweight,Tatiana Suarez,999,Not Ranked
+2026-07-16,Women's Strawweight,Gillian Robertson,999,Not Ranked
+2026-07-16,Women's Strawweight,Yan Xiaonan,999,Not Ranked
+2026-07-16,Women's Strawweight,Piera Rodriguez,999,Not Ranked
+2026-07-16,Women's Strawweight,Tabatha Ricci,999,Not Ranked
+2026-07-16,Women's Strawweight,Denise Gomes,999,Not Ranked
+2026-07-16,Women's Strawweight,Mizuki,999,Not Ranked
+2026-07-16,Women's Strawweight,Alexia Thainara,999,Not Ranked
+2026-07-16,Women's Strawweight,Amanda Lemos,999,Not Ranked
+2026-07-16,Women's Strawweight,Loopy Godinez,999,Not Ranked
+2026-07-16,Women's Strawweight,Jaqueline Amorim,999,Not Ranked
+2026-07-16,Women's Strawweight,Fatima Kline,999,Not Ranked
+2026-07-16,Women's Strawweight,Talita Alencar,999,Not Ranked
+2026-07-16,Women's Flyweight,Valentina Shevchenko,0,Champion
+2026-07-16,Women's Flyweight,Valentina Shevchenko,0,Champion
+2026-07-16,Women's Flyweight,Natalia Silva,1,
+2026-07-16,Women's Flyweight,Manon Fiorot,2,
+2026-07-16,Women's Flyweight,Alexa Grasso,3,
+2026-07-16,Women's Flyweight,Erin Blanchfield,4,
+2026-07-16,Women's Flyweight,Rose Namajunas,5,
+2026-07-16,Women's Flyweight,Maycee Barber,6,
+2026-07-16,Women's Flyweight,Jasmine Jasudavicius,7,
+2026-07-16,Women's Flyweight,Wang Cong,8,Rank increased by 4
+2026-07-16,Women's Flyweight,Tracy Cortez,9,Rank decreased by 1
+2026-07-16,Women's Flyweight,Miranda Maverick,10,Rank decreased by 1
+2026-07-16,Women's Flyweight,Karine Silva,11,Rank decreased by 1
+2026-07-16,Women's Flyweight,Casey O'Neill,12,Rank decreased by 1
+2026-07-16,Women's Flyweight,Eduarda Moura,13,
+2026-07-16,Women's Flyweight,JJ Aldrich,14,
+2026-07-16,Women's Flyweight,Gabriella Fernandes,15,
+2026-07-16,Women's Flyweight,Natalia Silva,999,Not Ranked
+2026-07-16,Women's Flyweight,Manon Fiorot,999,Not Ranked
+2026-07-16,Women's Flyweight,Alexa Grasso,999,Not Ranked
+2026-07-16,Women's Flyweight,Erin Blanchfield,999,Not Ranked
+2026-07-16,Women's Flyweight,Zhang Weili,999,Not Ranked
+2026-07-16,Women's Flyweight,Wang Cong,999,Not Ranked
+2026-07-16,Women's Flyweight,Jasmine Jasudavicius,999,Not Ranked
+2026-07-16,Women's Flyweight,Rose Namajunas,999,Not Ranked
+2026-07-16,Women's Flyweight,Maycee Barber,999,Not Ranked
+2026-07-16,Women's Flyweight,Tracy Cortez,999,Not Ranked
+2026-07-16,Women's Flyweight,Miranda Maverick,999,Not Ranked
+2026-07-16,Women's Flyweight,JJ Aldrich,999,Not Ranked
+2026-07-16,Women's Flyweight,Karine Silva,999,Not Ranked
+2026-07-16,Women's Flyweight,Eduarda Moura,999,Not Ranked
+2026-07-16,Women's Flyweight,Casey O'Neill,999,Not Ranked
+2026-07-16,Women's Bantamweight,Kayla Harrison,0,Champion
+2026-07-16,Women's Bantamweight,Kayla Harrison,0,Champion
+2026-07-16,Women's Bantamweight,Julianna Peña,1,
+2026-07-16,Women's Bantamweight,Raquel Pennington,2,
+2026-07-16,Women's Bantamweight,Joselyne Edwards,3,
+2026-07-16,Women's Bantamweight,Norma Dumont,4,
+2026-07-16,Women's Bantamweight,Ailin Perez,5,
+2026-07-16,Women's Bantamweight,Yana Santos,6,
+2026-07-16,Women's Bantamweight,Irene Aldana,7,
+2026-07-16,Women's Bantamweight,Macy Chiasson,8,
+2026-07-16,Women's Bantamweight,Luana Santos,9,
+2026-07-16,Women's Bantamweight,Jacqueline Cavalcanti,10,
+2026-07-16,Women's Bantamweight,Karol Rosa,11,
+2026-07-16,Women's Bantamweight,Bia Mesquita,12,
+2026-07-16,Women's Bantamweight,Nora Cornolle,13,
+2026-07-16,Women's Bantamweight,Michelle Montague,14,
+2026-07-16,Women's Bantamweight,Miesha Tate,15,
+2026-07-16,Women's Bantamweight,Joselyne Edwards,999,Not Ranked
+2026-07-16,Women's Bantamweight,Norma Dumont,999,Not Ranked
+2026-07-16,Women's Bantamweight,Luana Santos,999,Not Ranked
+2026-07-16,Women's Bantamweight,Ailin Perez,999,Not Ranked
+2026-07-16,Women's Bantamweight,Julianna Peña,999,Not Ranked
+2026-07-16,Women's Bantamweight,Yana Santos,999,Not Ranked
+2026-07-16,Women's Bantamweight,Jacqueline Cavalcanti,999,Not Ranked
+2026-07-16,Women's Bantamweight,Michelle Montague,999,Not Ranked
+2026-07-16,Women's Bantamweight,Melissa Croden,999,Not Ranked
+2026-07-16,Women's Bantamweight,Karol Rosa,999,Not Ranked
+2026-07-16,Women's Bantamweight,Bia Mesquita,999,Not Ranked
+2026-07-16,Women's Bantamweight,Irene Aldana,999,Not Ranked
+2026-07-16,Women's Bantamweight,Macy Chiasson,999,Not Ranked
+2026-07-16,Women's Bantamweight,Daria Zhelezniakova,999,Not Ranked
+2026-07-16,Women's Bantamweight,Raquel Pennington,999,Not Ranked
 2026-07-09,Men's Pound-for-Pound,Islam Makhachev,1,
 2026-07-09,Men's Pound-for-Pound,Alexander Volkanovski,2,
 2026-07-09,Men's Pound-for-Pound,Petr Yan,3,
