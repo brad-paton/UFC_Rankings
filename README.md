@@ -1,4 +1,4 @@
-## UFC Rankings as of 2026-07-23
+## UFC Rankings as of 2026-07-30
 
 ### Men's Light Divisions
 
@@ -15,11 +15,11 @@
 |  8 | Asu Almabayev                | Aiemann Zahabi                 | Arnold Allen                   | Mauricio Ruffy                |
 |  9 | Amir Albazi                  | David Martinez                 | Youssef Zalal                  | Mateusz Gamrot                |
 | 10 | Brandon Moreno               | Deiveson Figueiredo            | Kevin Vallejos                 | Dan Hooker                    |
-| 11 | Steve Erceg                  | Marlon Vera                    | Steve Garcia                   | Renato Moicano                |
-| 12 | Alex Perez                   | Payton Talbott                 | Brian Ortega                   | Rafael Fiziev                 |
+| 11 | Alex Perez	▲ 1               | Marlon Vera                    | Steve Garcia                   | Renato Moicano                |
+| 12 | Steve Erceg	▼ 1              | Payton Talbott                 | Brian Ortega                   | Rafael Fiziev                 |
 | 13 | Tim Elliott                  | Raul Rosas Jr.                 | Aaron Pico                     | Quillan Salkilld              |
 | 14 | Tagir Ulanbekov              | Raoni Barcelos                 | Melquizael Costa               | Tom Nolan                     |
-| 15 | Charles Johnson              | Farid Basharat                 | David Onama                    | Beneil Dariush                |
+| 15 | Ramazan Temirov	NR           | Farid Basharat                 | David Onama                    | Beneil Dariush                |
 | 16 | Edgar Chairez                | Marcus McGhee                  | Patricio Pitbull               | Manuel Torres                 |
 | 17 | Alexandre Pantoja	Not Ranked | Merab Dvalishvili	Not Ranked   | Movsar Evloev	Not Ranked       | Ilia Topuria	Not Ranked       |
 | 18 | Manel Kape	Not Ranked        | Umar Nurmagomedov	Not Ranked   | Diego Lopes	Not Ranked         | Arman Tsarukyan	Not Ranked    |
@@ -27,15 +27,15 @@
 | 20 | Tatsuro Taira	Not Ranked     | Mario Bautista	Not Ranked      | Aljamain Sterling	Not Ranked   | Max Holloway	Not Ranked       |
 | 21 | Asu Almabayev	Not Ranked     | Cory Sandhagen	Not Ranked      | Arnold Allen	Not Ranked        | Paddy Pimblett	Not Ranked     |
 | 22 | Lone’er Kavanagh	Not Ranked  | Song Yadong	Not Ranked         | Jean Silva	Not Ranked          | Mateusz Gamrot	Not Ranked     |
-| 23 | Kyoji Horiguchi	Not Ranked   | David Martinez	Not Ranked      | Pat Sabatini	Not Ranked        | Renato Moicano	Not Ranked     |
-| 24 | Amir Albazi	Not Ranked       | Raoni Barcelos	Not Ranked      | Youssef Zalal	Not Ranked       | Benoît Saint Denis	Not Ranked |
-| 25 | Brandon Moreno	Not Ranked    | Farid Basharat	Not Ranked      | Nathaniel Wood	Not Ranked      | Quillan Salkilld	Not Ranked   |
-| 26 | Kevin Borjas	Not Ranked      | Marcus McGhee	Not Ranked       | Kevin Vallejos	Not Ranked      | Mauricio Ruffy	Not Ranked     |
-| 27 | Mitch Raposo	Not Ranked      | Deiveson Figueiredo	Not Ranked | Melquizael Costa	Not Ranked    | Tom Nolan	Not Ranked          |
-| 28 | Sumudaerji	Not Ranked        | Aiemann Zahabi	Not Ranked      | Steve Garcia	Not Ranked        | Dan Hooker	Not Ranked         |
-| 29 | Steve Erceg	Not Ranked       | Charles Jourdain	Not Ranked    | Aaron Pico	Not Ranked          | Rafael Fiziev	Not Ranked      |
-| 30 | Alex Perez	Not Ranked        | Bryce Mitchell	Not Ranked      | Jose Miguel Delgado	Not Ranked | Grant Dawson	Not Ranked       |
-| 31 | Alessandro Costa	Not Ranked  | Montel Jackson	Not Ranked      | Joanderson Brito	Not Ranked    | Rafa Garcia	Not Ranked        |### Men's Heavy Divisions
+| 23 | Ramazan Temirov	Not Ranked   | David Martinez	Not Ranked      | Pat Sabatini	Not Ranked        | Renato Moicano	Not Ranked     |
+| 24 | Kyoji Horiguchi	Not Ranked   | Raoni Barcelos	Not Ranked      | Youssef Zalal	Not Ranked       | Benoît Saint Denis	Not Ranked |
+| 25 | Amir Albazi	Not Ranked       | Farid Basharat	Not Ranked      | Nathaniel Wood	Not Ranked      | Quillan Salkilld	Not Ranked   |
+| 26 | Brandon Moreno	Not Ranked    | Marcus McGhee	Not Ranked       | Kevin Vallejos	Not Ranked      | Mauricio Ruffy	Not Ranked     |
+| 27 | Kevin Borjas	Not Ranked      | Deiveson Figueiredo	Not Ranked | Melquizael Costa	Not Ranked    | Tom Nolan	Not Ranked          |
+| 28 | Mitch Raposo	Not Ranked      | Aiemann Zahabi	Not Ranked      | Steve Garcia	Not Ranked        | Dan Hooker	Not Ranked         |
+| 29 | Sumudaerji	Not Ranked        | Charles Jourdain	Not Ranked    | Aaron Pico	Not Ranked          | Rafael Fiziev	Not Ranked      |
+| 30 | Alessandro Costa	Not Ranked  | Bryce Mitchell	Not Ranked      | Jose Miguel Delgado	Not Ranked | Grant Dawson	Not Ranked       |
+| 31 | Alex Perez	Not Ranked        | Montel Jackson	Not Ranked      | Joanderson Brito	Not Ranked    | Rafa Garcia	Not Ranked        |### Men's Heavy Divisions
 
 |    | Welterweight                    | Middleweight                      | Light Heavyweight              | Heavyweight                    |
 |---:|:--------------------------------|:----------------------------------|:-------------------------------|:-------------------------------|
@@ -48,29 +48,29 @@
 |  6 | Gabriel Bonfim                  | Caio Borralho                     | Khalil Rountree Jr.            | Waldo Cortes Acosta            |
 |  7 | Sean Brady                      | Anthony Hernandez                 | Paulo Costa                    | Serghei Spivac                 |
 |  8 | Belal Muhammad                  | Joe Pyfer                         | Jamahal Hill                   | Curtis Blaydes                 |
-|  9 | Leon Edwards                    | Israel Adesanya	▲ 1               | Azamat Murzakanov              | Rizvan Kuniev                  |
-| 10 | Kamaru Usman                    | Reinier de Ridder	▼ 1             | Bogdan Guskov                  | Tyrell Fortune                 |
-| 11 | Joaquin Buckley                 | Christian Leroy Duncan	▲ 2        | Dominick Reyes	▲ 1             | Ante Delija                    |
-| 12 | Yaroslav Amosov                 | Gregory Rodrigues                 | Robert Whittaker	▲ 1           | Derrick Lewis                  |
-| 13 | Mike Malott                     | Jared Cannonier	▼ 2               | Johnny Walker	▲ 1              | Marcin Tybura                  |
-| 14 | Michael Venom Page              | Ikram Aliskerov                   | Aleksandar Rakić	▲ 1           | Valter Walker                  |
-| 15 | Uroš Medić                      | Bo Nickal                         | Alonzo Menifield	NR            | Brando Peričić                 |
-| 16 | Daniel Rodriguez                | Roman Dolidze                     | Navajo Stirling	NR             | Mick Parkin                    |
+|  9 | Leon Edwards                    | Israel Adesanya                   | Azamat Murzakanov              | Rizvan Kuniev                  |
+| 10 | Kamaru Usman                    | Reinier de Ridder                 | Dominick Reyes	▲ 1             | Ante Delija                    |
+| 11 | Joaquin Buckley                 | Christian Leroy Duncan            | Bogdan Guskov	▼ 1              | Valter Walker	▲ 3              |
+| 12 | Yaroslav Amosov                 | Gregory Rodrigues                 | Robert Whittaker               | Tyrell Fortune	▼ 2             |
+| 13 | Mike Malott                     | Jared Cannonier                   | Johnny Walker                  | Derrick Lewis	▼ 1              |
+| 14 | Michael Venom Page              | Ikram Aliskerov                   | Aleksandar Rakić               | Marcin Tybura	▼ 1              |
+| 15 | Uroš Medić                      | Bo Nickal                         | Alonzo Menifield               | Brando Peričić                 |
+| 16 | Daniel Rodriguez                | Roman Dolidze                     | Navajo Stirling                | Mick Parkin                    |
 | 17 | Carlos Prates	Not Ranked        | Khamzat Chimaev	Not Ranked        | Alex Pereira	Not Ranked        | Ciryl Gane	Not Ranked          |
 | 18 | Ian Machado Garry	Not Ranked    | Dricus Du Plessis	Not Ranked      | Magomed Ankalaev	Not Ranked    | Alexander Volkov	Not Ranked    |
 | 19 | Michael Morales	Not Ranked      | Nassourdine Imavov	Not Ranked     | Jiří Procházka	Not Ranked      | Sergei Pavlovich	Not Ranked    |
 | 20 | Jack Della Maddalena	Not Ranked | Joe Pyfer	Not Ranked              | Paulo Costa	Not Ranked         | Alex Pereira	Not Ranked        |
-| 21 | Sean Brady	Not Ranked           | Brendan Allen	Not Ranked          | Jamahal Hill	Not Ranked        | Josh Hokit	Not Ranked          |
-| 22 | Gabriel Bonfim	Not Ranked       | Caio Borralho	Not Ranked          | Khalil Rountree Jr.	Not Ranked | Waldo Cortes Acosta	Not Ranked |
-| 23 | Belal Muhammad	Not Ranked       | Anthony Hernandez	Not Ranked      | Dominick Reyes	Not Ranked      | Rizvan Kuniev	Not Ranked       |
-| 24 | Leon Edwards	Not Ranked         | Israel Adesanya	Not Ranked        | Azamat Murzakanov	Not Ranked   | Curtis Blaydes	Not Ranked      |
+| 21 | Sean Brady	Not Ranked           | Brendan Allen	Not Ranked          | Jamahal Hill	Not Ranked        | Rizvan Kuniev	Not Ranked       |
+| 22 | Gabriel Bonfim	Not Ranked       | Caio Borralho	Not Ranked          | Khalil Rountree Jr.	Not Ranked | Josh Hokit	Not Ranked          |
+| 23 | Belal Muhammad	Not Ranked       | Anthony Hernandez	Not Ranked      | Dominick Reyes	Not Ranked      | Waldo Cortes Acosta	Not Ranked |
+| 24 | Leon Edwards	Not Ranked         | Israel Adesanya	Not Ranked        | Azamat Murzakanov	Not Ranked   | Valter Walker	Not Ranked       |
 | 25 | Joaquin Buckley	Not Ranked      | Gregory Rodrigues	Not Ranked      | Bogdan Guskov	Not Ranked       | Serghei Spivac	Not Ranked      |
-| 26 | Kamaru Usman	Not Ranked         | Christian Leroy Duncan	Not Ranked | Dustin Jacoby	Not Ranked       | Vitor Petrino	Not Ranked       |
-| 27 | Mike Malott	Not Ranked          | Kamaru Usman	Not Ranked           | Navajo Stirling	Not Ranked     | Valter Walker	Not Ranked       |
-| 28 | Michael Venom Page	Not Ranked   | Ikram Aliskerov	Not Ranked        | Robert Whittaker	Not Ranked    | Brando Peričić	Not Ranked      |
-| 29 | Daniel Rodriguez	Not Ranked     | Bo Nickal	Not Ranked              | Alonzo Menifield	Not Ranked    | Mario Pinto	Not Ranked         |
-| 30 | Uroš Medić	Not Ranked           | Abus Magomedov	Not Ranked         | Johnny Walker	Not Ranked       | Mick Parkin	Not Ranked         |
-| 31 | Yaroslav Amosov	Not Ranked      | Nursulton Ruziboev	Not Ranked     | Jan Błachowicz	Not Ranked      | Ryan Spann	Not Ranked          |
+| 26 | Kamaru Usman	Not Ranked         | Christian Leroy Duncan	Not Ranked | Navajo Stirling	Not Ranked     | Curtis Blaydes	Not Ranked      |
+| 27 | Mike Malott	Not Ranked          | Kamaru Usman	Not Ranked           | Robert Whittaker	Not Ranked    | Vitor Petrino	Not Ranked       |
+| 28 | Michael Venom Page	Not Ranked   | Ikram Aliskerov	Not Ranked        | Johnny Walker	Not Ranked       | Brando Peričić	Not Ranked      |
+| 29 | Daniel Rodriguez	Not Ranked     | Bo Nickal	Not Ranked              | Jan Błachowicz	Not Ranked      | Mario Pinto	Not Ranked         |
+| 30 | Uroš Medić	Not Ranked           | Abus Magomedov	Not Ranked         | Alonzo Menifield	Not Ranked    | Mick Parkin	Not Ranked         |
+| 31 | Yaroslav Amosov	Not Ranked      | Nursulton Ruziboev	Not Ranked     | Muhammad Saidov	Not Ranked     | Ryan Spann	Not Ranked          |
 
 ### Women's Divisions
 
@@ -83,16 +83,16 @@
 |  4 | Virna Jandiroba              | Alexa Grasso                    | Joselyne Edwards                 |
 |  5 | Yan Xiaonan                  | Erin Blanchfield                | Norma Dumont                     |
 |  6 | Gillian Robertson            | Rose Namajunas                  | Ailin Perez                      |
-|  7 | Fatima Kline	▲ 5             | Maycee Barber                   | Yana Santos                      |
-|  8 | Loopy Godinez	▼ 1            | Jasmine Jasudavicius            | Luana Santos	▲ 2                 |
-|  9 | Amanda Lemos	▼ 1             | Wang Cong                       | Macy Chiasson                    |
-| 10 | Jéssica Andrade              | Tracy Cortez                    | Jacqueline Cavalcanti	▲ 1        |
-| 11 | Tabatha Ricci	▼ 2            | Miranda Maverick                | Karol Rosa	▲ 1                   |
-| 12 | Amanda Ribas	▼ 1             | Karine Silva                    | Bia Mesquita	▲ 1                 |
-| 13 | Alexia Thainara              | Casey O'Neill                   | Michelle Montague	▲ 2            |
+|  7 | Fatima Kline                 | Maycee Barber                   | Yana Santos                      |
+|  8 | Loopy Godinez                | Jasmine Jasudavicius            | Luana Santos                     |
+|  9 | Amanda Lemos                 | Wang Cong                       | Macy Chiasson                    |
+| 10 | Jéssica Andrade              | Tracy Cortez                    | Jacqueline Cavalcanti            |
+| 11 | Tabatha Ricci                | Miranda Maverick                | Karol Rosa                       |
+| 12 | Amanda Ribas                 | Karine Silva                    | Bia Mesquita                     |
+| 13 | Alexia Thainara              | Casey O'Neill                   | Michelle Montague                |
 | 14 | Denise Gomes                 | Eduarda Moura                   | Nora Cornolle                    |
-| 15 | Angela Hill                  | JJ Aldrich                      | Miesha Tate	▲ 1                  |
-| 16 | Mizuki                       | Gabriella Fernandes             | Melissa Croden	NR                |
+| 15 | Angela Hill                  | JJ Aldrich                      | Miesha Tate                      |
+| 16 | Mizuki                       | Gabriella Fernandes             | Melissa Croden                   |
 | 17 | Zhang Weili	Not Ranked       | Natalia Silva	Not Ranked        | Joselyne Edwards	Not Ranked      |
 | 18 | Virna Jandiroba	Not Ranked   | Manon Fiorot	Not Ranked         | Norma Dumont	Not Ranked          |
 | 19 | Tatiana Suarez	Not Ranked    | Alexa Grasso	Not Ranked         | Luana Santos	Not Ranked          |
